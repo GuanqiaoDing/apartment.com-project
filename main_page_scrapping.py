@@ -51,5 +51,6 @@ class main_page:
     def save(self):
         """save the links scrapped from the city's search page"""
         
-        with open(self.Dict['links_file'], 'w') as file:
-            file.writelines("%s\n" % link for link in self.links)
+        if len(self.links) != 0:
+            with open(self.Dict['links_file'], 'w') as file:
+                file.writelines("%s\n" % link for link in self.links)
