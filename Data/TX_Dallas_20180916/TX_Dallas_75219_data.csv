@@ -1,0 +1,409 @@
+Name,Address,url,Data
+Ilume,"4123 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/ilume-dallas-tx/bb4hg29/,"{'1 Bed': '$1,129 – 1,529', '2 Beds': '$1,399 – 1,939'}"
+Seville Uptown,"2626 Reagan St,Dallas,TX,75219",https://www.apartments.com/seville-uptown-dallas-tx/s5p5kq6/,"{'1 Bed': '$1,124 – 1,600', '2 Beds': '$1,631 – 2,056'}"
+2929 Wycliff,"2929 Wycliff Ave,Dallas,TX,75219",https://www.apartments.com/2929-wycliff-dallas-tx/kqer10c/,"{'1 Bed': '$1,065 – 1,785', '2 Beds': '$1,625 – 2,585'}"
+The Vista,"2345 N Houston St,Dallas,TX,75219",https://www.apartments.com/the-vista-dallas-tx/2h29d39/,"{'1 Bed': '$1,349 – 4,744', '2 Beds': '$2,398 – 5,000'}"
+Atera Apartments,"4606 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/atera-apartments-dallas-tx/t61whyb/,"{'1 Bed': '$1,076 – 1,633', '2 Beds': '$1,348 – 1,850', '3 Beds': '$1,881 – 2,849'}"
+SkyHouse Dallas,"2320 N Houston St,Dallas,TX,75219",https://www.apartments.com/skyhouse-dallas-dallas-tx/ypzcl6r/,"{'Studio': '$1,275 – 1,885', '1 Bed': '$1,430 – 2,265', '2 Beds': '$2,180 – 3,445', '3 Beds': '$3,065 – 3,480'}"
+Cantabria at Turtle Creek Apartments,"2728 Hood St,Dallas,TX,75219",https://www.apartments.com/cantabria-at-turtle-creek-apartments-dallas-tx/cv0s88g/,"{'Studio': 'Call for Rent', '1 Bed': '$1,430 – 3,105', '2 Beds': '$2,015 – 3,675'}"
+Radius Turtle Creek,"3604 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/radius-turtle-creek-dallas-tx/d2b8enk/,"{'1 Bed': '$1,395 – 1,550', '2 Beds': '$1,730 – 2,040'}"
+The Lucas,"2924 Lucas Dr,Dallas,TX,75219",https://www.apartments.com/the-lucas-dallas-tx/m2ldkdk/,"{'1 Bed': '$1,022 – 1,963', '2 Beds': '$1,515 – 2,195'}"
+The 23,"2370 Victory Ave,Dallas,TX,75219",https://www.apartments.com/the-23-dallas-tx/07xcyb2/,"{'Studio': '$1,477 – 2,090', '1 Bed': '$1,845 – 3,495', '2 Beds': '$3,133 – 3,990'}"
+Avenue on Fairmount,"4210 Fairmount St,Dallas,TX,75219",https://www.apartments.com/avenue-on-fairmount-dallas-tx/sbf5tz7/,"{'Studio': '$1,035 – 1,210', '1 Bed': '$1,214 – 2,095', '2 Beds': '$1,830 – 2,230'}"
+Ascent Victory Park,"2588 N Houston St,Dallas,TX,75219",https://www.apartments.com/ascent-victory-park-dallas-tx/zw33j8y/,"{'Studio': '$1,924 – 2,274', '1 Bed': '$2,236 – 3,261', '2 Beds': '$3,506 – 4,909'}"
+Argyle Apartments,"3721 N Hall St,Dallas,TX,75219",https://www.apartments.com/argyle-apartments-dallas-tx/c5zjm1g/,"{'Studio': '$1,329 – 1,495', '1 Bed': '$1,926 – 2,503', '2 Beds': '$3,115 – 3,504'}"
+The District,"4505 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/the-district-dallas-tx/590x5hp/,"{'1 Bed': '$1,055 – 1,222'}"
+THIRTY377,"3377 Blackburn St,Dallas,TX,75204",https://www.apartments.com/thirty377-dallas-tx/3ysndrf/,"{'1 Bed': '$1,395 – 4,179', '2 Beds': '$1,817 – 6,776', '3 Beds': '$2,582 – 11,494'}"
+Gables Uptown Trail,"2525 Carlisle St,Dallas,TX,75201",https://www.apartments.com/gables-uptown-trail-dallas-tx/6nssw6s/,"{'Studio': '$1,331 – 1,501', '1 Bed': '$1,410 – 2,075', '2 Beds': '$1,871 – 4,321', '3 Beds': '$3,100 – 4,125'}"
+The Taylor Uptown,"3100 Carlisle St,Dallas,TX,75204",https://www.apartments.com/the-taylor-uptown-dallas-tx/dnphe9h/,"{'Studio': '$1,134 – 4,844', '1 Bed': '$1,378 – 6,313', '2 Beds': '$2,362 – 7,922', '3 Beds': '$3,362 – 18,955'}"
+SKYE of Turtle Creek,"2217 Ivan St,Dallas,TX,75201",https://www.apartments.com/skye-of-turtle-creek-dallas-tx/1zwr0c6/,"{'1 Bed': '$1,388 – 3,788', '2 Beds': '$2,146 – 5,270', '3 Beds': '$2,965 – 7,345'}"
+Alta Design District,"1531 Inspiration Dr,Dallas,TX,75207",https://www.apartments.com/alta-design-district-dallas-tx/88c3qr0/,"{'Studio': '$1,060 – 1,475', '1 Bed': '$1,175 – 1,890', '2 Beds': '$1,530 – 2,275'}"
+Victory Place,"1701 Payne St,Dallas,TX,75201",https://www.apartments.com/victory-place-dallas-tx/k88b8gc/,"{'Studio': '$1,435 – 1,670', '1 Bed': '$1,650 – 3,315', '2 Beds': '$2,475 – 3,080', '3 Beds': '$3,280 – 3,505'}"
+The Katy at Victory Park,"3111 N Houston St,Dallas,TX,75201",https://www.apartments.com/the-katy-at-victory-park-dallas-tx/bd2y0q9/,"{'Studio': '$1,455 – 2,070', '1 Bed': '$1,735 – 3,245', '2 Beds': '$2,995 – 13,500'}"
+Northend,"2323 N Field St,Dallas,TX,75201",https://www.apartments.com/northend-dallas-tx/q3v9xgy/,"{'1 Bed': '$1,155 – 1,690', '2 Beds': '$1,725 – 3,425'}"
+Brady,"2728 Cedar Springs Rd,Dallas,TX,75204",https://www.apartments.com/brady-dallas-tx/s8n8zg6/,"{'1 Bed': '$1,866 – 3,809', '2 Beds': '$2,864 – 13,500', '3 Beds': '$10,000 – 15,000'}"
+Magnolia Station,"1607 Lyte St,Dallas,TX,75201",https://www.apartments.com/magnolia-station-dallas-tx/5cx4h0m/,"{'1 Bed': '$1,330 – 1,793', '2 Beds': '$1,900 – 2,300'}"
+The Dylan,"4533 Cedar Spgs,Dallas,TX,75219",https://www.apartments.com/the-dylan-dallas-tx/cgh42ld/,"{'1 Bed': '$1,355 – 2,381', '2 Beds': '$1,660 – 4,389'}"
+Axis at Wycliff,"4343 Congress Ave,Dallas,TX,75219",https://www.apartments.com/axis-at-wycliff-dallas-tx/dtcxzel/,"{'1 Bed': '$1,220 – 1,824', '2 Beds': '$1,840 – 2,765'}"
+Echo Apartments,"3083 Herschel Ave,Dallas,TX,75219",https://www.apartments.com/echo-apartments-dallas-tx/6cfgk8r/,"{'1 Bed': '$1,194 – 1,425', '2 Beds': '$1,647 – 2,253'}"
+Modera Turtle Creek,"3663 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/modera-turtle-creek-dallas-tx/w336jgj/,"{'1 Bed': '$1,299 – 2,065', '2 Beds': '$1,929 – 4,950'}"
+Camden Victory Park,"2787 N Houston St,Dallas,TX,75219",https://www.apartments.com/camden-victory-park-dallas-tx/4d1nr6k/,"{'1 Bed': '$1,419 – 1,939', '2 Beds': '$1,859 – 2,279'}"
+4214 Rawlins,"4214 Rawlins St,Dallas,TX,75219",https://www.apartments.com/4214-rawlins-dallas-tx/dg62cdl/,"{'2 Beds': '$1,399 – 1,599'}"
+Gables Villa Rosa,"2650-2650 Cedar Springs Rd,Dallas,TX,75201",https://www.apartments.com/gables-villa-rosa-dallas-tx/n93qf1m/,"{'1 Bed': '$1,345 – 2,320', '2 Beds': '$1,990 – 2,965', '3 Beds': 'Call for Rent'}"
+Marquis at Turtle Creek,"3001 Sale St,Dallas,TX,75219",https://www.apartments.com/marquis-at-turtle-creek-dallas-tx/g1hskbx/,"{'1 Bed': '$1,309 – 1,730', '2 Beds': '$1,758 – 2,672'}"
+Ilume Park,"3109 Douglas Ave,Dallas,TX,75219",https://www.apartments.com/ilume-park-dallas-tx/zvtj50w/,"{'1 Bed': '$1,229 – 1,619', '2 Beds': '$2,079 – 2,519'}"
+Berkshire Medical District,"4730 Fairmount St,Dallas,TX,75219",https://www.apartments.com/berkshire-medical-district-dallas-tx/9jwys77/,"{'1 Bed': '$1,131 – 1,636', '2 Beds': '$1,395 – 2,215'}"
+27TwentySeven,"2727 Kings Rd,Dallas,TX,75219",https://www.apartments.com/27twentyseven-dallas-tx/eyqj8pq/,"{'Studio': '$1,200', '1 Bed': 'Call for Rent', '2 Beds': '$1,785'}"
+4110 Fairmount,"4110 Fairmount St,Dallas,TX,75219",https://www.apartments.com/4110-fairmount-dallas-tx/0p1tp53/,"{'Studio': '$950 – 2,350', '1 Bed': '$1,267 – 2,828', '2 Beds': '$1,510 – 4,443'}"
+The Moxie,"4335 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/the-moxie-dallas-tx/t5g1e18/,"{'1 Bed': '$1,050 – 1,150', '2 Beds': '$1,299'}"
+The Lure Apartments,"2929 Kings Rd,Dallas,TX,75219",https://www.apartments.com/the-lure-apartments-dallas-tx/r4zs7w3/,"{'1 Bed': '$1,049 – 1,089', '2 Beds': '$1,285 – 1,450', '3 Beds': '$1,654'}"
+Alto Highland Park Residences,"4201 Lomo Alto Dr,Dallas,TX,75219",https://www.apartments.com/alto-highland-park-residences-dallas-tx/rnllbs1/,"{'1 Bed': '$2,210 – 3,590', '2 Beds': '$2,735 – 4,195', '3 Beds': '$3,165 – 5,690'}"
+Arpeggio at Victory Park,"2425 Victory Ave,Dallas,TX,75219",https://www.apartments.com/arpeggio-at-victory-park-dallas-tx/ffr4r5s/,"{'Studio': '$1,044 – 2,102', '1 Bed': '$1,248 – 2,564', '2 Beds': '$1,741 – 3,931'}"
+Gables Katy Trail,"2821 Carlisle St,Dallas,TX,75204",https://www.apartments.com/gables-katy-trail-dallas-tx/dm7q5vl/,"{'Studio': '$955 – 1,366', '1 Bed': '$1,124 – 1,690', '2 Beds': '$1,670 – 1,990'}"
+THE Alexan,"3333 Harry Hines Blvd,Dallas,TX,75201",https://www.apartments.com/the-alexan-dallas-tx/wzg98fj/,"{'Studio': '$1,140 – 1,295', '1 Bed': '$1,535 – 2,445', '2 Beds': '$2,335 – 4,425'}"
+3400 Welborn St Unit 128,"Dallas,TX,75219",https://www.apartments.com/3400-welborn-st-dallas-tx-unit-128/82wfp12/,"{'1 Bed': '$1,700'}"
+3225 Turtle Creek Blvd Unit 4 fl,"Dallas,TX,75219",https://www.apartments.com/3225-turtle-creek-blvd-dallas-tx-unit-4-fl/c6mxfbe/,"{'1 Bed': '$1,625'}"
+4300 Congress Ave Unit 209,"Dallas,TX,75219",https://www.apartments.com/4300-congress-ave-dallas-tx-unit-209/nb4v1nn/,"{'1 Bed': '$1,095'}"
+4224 Rawlins St Unit 101,"Dallas,TX,75219",https://www.apartments.com/4224-rawlins-st-dallas-tx-unit-101/yybehdv/,"{'3 Beds': '$2,150'}"
+2805 Reagan St Unit 204,"Dallas,TX,75219",https://www.apartments.com/2805-reagan-st-dallas-tx-unit-204/vyzs35f/,"{'2 Beds': '$1,295'}"
+3400 Welborn St Unit 318,"Dallas,TX,75219",https://www.apartments.com/3400-welborn-st-dallas-tx-unit-318/e1hjrdm/,"{'1 Bed': '$1,755'}"
+4427 Holland Ave,"Dallas,TX,75219",https://www.apartments.com/4427-holland-ave-dallas-tx/1epv3z5/,{'1 Bed': '$900'}
+4624 Steel St,"Dallas,TX,75219",https://www.apartments.com/4624-steel-st-dallas-tx/6trtlfv/,"{'3 Beds': '$3,200'}"
+3883 Turtle Creek Blvd Unit 900A,"Dallas,TX,75219",https://www.apartments.com/3883-turtle-creek-blvd-dallas-tx-unit-900a/b0s8tb8/,"{'1 Bed': '$1,150'}"
+5006 Cedar Springs Rd,"Dallas,TX,75235",https://www.apartments.com/5006-cedar-springs-rd-dallas-tx/4sv0xml/,"{'2 Beds': '$2,950'}"
+3225 Turtle Creek Blvd Unit 1045,"Dallas,TX,75219",https://www.apartments.com/3225-turtle-creek-blvd-dallas-tx-unit-1045/09xh172/,"{'2 Beds': '$2,600'}"
+4859 Cedar Springs Rd Unit #159,"4859 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4859-cedar-springs-rd-dallas-tx-unit-159/k9p3nn8/,"{'1 Bed': '$1,000'}"
+Cirque,"2500 N Houston St,Dallas,TX,75219",https://www.apartments.com/cirque-dallas-tx/dqfbqel/,{'1 Bed\n                            –\n2 Beds': 'Call for Rent'}
+Rienzi at Turtle Creek Apartments,"3500 Fairmount St,Dallas,TX,75219",https://www.apartments.com/rienzi-at-turtle-creek-apartments-dallas-tx/p20z2qv/,"{'1 Bed': '$2,220 – 3,590', '2 Beds': '$2,570 – 6,680'}"
+Park 4200,"4220 Herschel Ave,Dallas,TX,75219",https://www.apartments.com/park-4200-dallas-tx/gq7b5jw/,"{'1 Bed': '$2,040', '2 Beds': '$2,470 – 3,150'}"
+Magnolia on Gilbert,"4020 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/magnolia-on-gilbert-dallas-tx/1f75y36/,"{'2 Beds': '$2,274'}"
+3813 Prescott Ave Unit 103,"3813 Prescott Ave,Dallas,TX,75219",https://www.apartments.com/3813-prescott-ave-dallas-tx-unit-103/zj9lhjz/,"{'1 Bed': '$1,595'}"
+4340 Cedar Springs Rd Unit 213,"4340 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4340-cedar-springs-rd-dallas-tx-unit-213/61ds87s/,{'1 Bed': '$590'}
+3500 Routh St Unit 5,"3500 Routh St,Dallas,TX,75219",https://www.apartments.com/3500-routh-st-dallas-tx-unit-5/7rqhc0y/,"{'2 Beds': '$1,750'}"
+3500 Routh St Unit 3,"3500 Routh St,Dallas,TX,75219",https://www.apartments.com/3500-routh-st-dallas-tx-unit-3/m3t962j/,"{'2 Beds': '$1,750'}"
+4206 Hawthorne Ave Unit 104,"4206 Hawthorne Ave,Dallas,TX,75219",https://www.apartments.com/4206-hawthorne-ave-dallas-tx-unit-104/lh6pt8g/,"{'2 Beds': '$1,200'}"
+2589 N Houston St Unit 1019,"2589 N Houston St,Dallas,TX,75219",https://www.apartments.com/2589-n-houston-st-dallas-tx-unit-1019/8kfq0n0/,"{'1 Bed': '$1,850'}"
+3105B Wycliff Ave,"3105B Wycliff Ave,Dallas,TX,75219",https://www.apartments.com/3105b-wycliff-ave-dallas-tx/fm5370v/,"{'1 Bed': '$1,350'}"
+4040 N Hall St Unit 306,"4040 N Hall St,Dallas,TX,75219",https://www.apartments.com/4040-n-hall-st-dallas-tx-unit-306/xhfhwzq/,"{'2 Beds': '$2,000'}"
+2589 N Houston St Unit 800,"2589 N Houston St,Dallas,TX,75219",https://www.apartments.com/2589-n-houston-st-dallas-tx-unit-800/9ted8l6/,"{'2 Beds': '$2,780'}"
+4402 Holland Ave Unit 201,"4402 Holland Ave,Dallas,TX,75219",https://www.apartments.com/4402-holland-ave-dallas-tx-unit-201/fls308s/,"{'2 Beds': '$1,800'}"
+4307 Gilbert Ave Unit 210,"4307 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/4307-gilbert-ave-dallas-tx-unit-210/3bzm9lg/,"{'2 Beds': '$1,600'}"
+3225 Turtle Creek Blvd Unit 342,"3225 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/3225-turtle-creek-blvd-dallas-tx-unit-342/8bx5jk1/,"{'2 Beds': '$2,200'}"
+4411 Bowser Ave Unit 109,"4411 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/4411-bowser-ave-dallas-tx-unit-109/kk4qed8/,"{'1 Bed': '$1,700'}"
+3883 Turtle Creek Blvd Unit 1809,"3883 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/3883-turtle-creek-blvd-dallas-tx-unit-1809/7w7hg0x/,"{'1 Bed': '$1,650'}"
+3225 Turtle Creek Blvd Unit 1045,"3225 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/3225-turtle-creek-blvd-dallas-tx-unit-1045/gb4h53y/,"{'2 Beds': '$2,500'}"
+4211 Newton Ave Unit 209,"4211 Newton Ave,Dallas,TX,75219",https://www.apartments.com/4211-newton-ave-dallas-tx-unit-209/js1qc67/,"{'1 Bed': '$1,180'}"
+3813 Prescott Ave Unit 207,"3813 Prescott Ave,Dallas,TX,75219",https://www.apartments.com/3813-prescott-ave-dallas-tx-unit-207/wqkbf6l/,"{'2 Beds': '$1,895'}"
+2720 Reagan St Unit 102C,"2720 Reagan St,Dallas,TX,75219",https://www.apartments.com/2720-reagan-st-dallas-tx-unit-102c/clh8p9e/,{'1 Bed': '$985'}
+4111 Rawlins St Unit 303,"4111 Rawlins St,Dallas,TX,75219",https://www.apartments.com/4111-rawlins-st-dallas-tx-unit-303/ys7jvev/,"{'2 Beds': '$3,000'}"
+4111 Rawlins St Unit 304,"4111 Rawlins St,Dallas,TX,75219",https://www.apartments.com/4111-rawlins-st-dallas-tx-unit-304/pz6kwtr/,"{'3 Beds': '$3,450'}"
+2833 Kings Rd Unit 211,"2833 Kings Rd,Dallas,TX,75219",https://www.apartments.com/2833-kings-rd-dallas-tx-unit-211/sgwd5s7/,{'1 Bed': '$925'}
+4851 Cedar Springs Rd Unit 381m,"4851 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4851-cedar-springs-rd-dallas-tx-unit-381m/3me0j7g/,{'1 Bed': '$995'}
+3918 Holland Ave Unit 206,"3918 Holland Ave,Dallas,TX,75219",https://www.apartments.com/3918-holland-ave-dallas-tx-unit-206/b948n09/,"{'2 Beds': '$1,975'}"
+3225 Turtle Creek Blvd Unit 201,"3225 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/3225-turtle-creek-blvd-dallas-tx-unit-201/hyc9sf3/,"{'2 Beds': '$2,050'}"
+3225 Turtle Creek Blvd Unit 408,"3225 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/3225-turtle-creek-blvd-dallas-tx-unit-408/6d3svmt/,"{'2 Beds': '$1,900'}"
+2323 N Houston St Unit 705,"2323 N Houston St,Dallas,TX,75219",https://www.apartments.com/2323-n-houston-st-dallas-tx-unit-705/jn4kk04/,"{'2 Beds': '$3,250'}"
+4702 Bradford Dr Unit B,"4702 Bradford Dr,Dallas,TX,75219",https://www.apartments.com/4702-bradford-dr-dallas-tx-unit-b/7sgt8jx/,"{'2 Beds': '$1,450'}"
+3225 Turtle Creek Blvd Unit 1646,"3225 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/3225-turtle-creek-blvd-dallas-tx-unit-1646/bybns1c/,"{'1 Bed': '$1,500'}"
+3904 Rawlins St Unit 112,"3904 Rawlins St,Dallas,TX,75219",https://www.apartments.com/3904-rawlins-st-dallas-tx-unit-112/jgx45z7/,"{'2 Beds': '$1,895'}"
+4502 Holland Ave Unit 206,"4502 Holland Ave,Dallas,TX,75219",https://www.apartments.com/4502-holland-ave-dallas-tx-unit-206/j4cwng4/,"{'3 Beds': '$3,700'}"
+4122 Avondale Ave Unit 201,"4122 Avondale Ave,Dallas,TX,75219",https://www.apartments.com/4122-avondale-ave-dallas-tx-unit-201/050n172/,"{'2 Beds': '$2,250'}"
+2408 Victory Park Ln Unit 1038,"2408 Victory Park Ln,Dallas,TX,75219",https://www.apartments.com/2408-victory-park-ln-dallas-tx-unit-1038/stx9c04/,"{'2 Beds': '$5,750'}"
+4702 Bradford Dr Unit A,"4702 Bradford Dr,Dallas,TX,75219",https://www.apartments.com/4702-bradford-dr-dallas-tx-unit-a/37yvvhe/,"{'2 Beds': '$1,500'}"
+2806 Knight St Unit 106,"2806 Knight St,Dallas,TX,75219",https://www.apartments.com/2806-knight-st-dallas-tx-unit-106/bndp4v8/,"{'2 Beds': '$1,850'}"
+3907 Gilbert Ave Unit 7,"3907 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/3907-gilbert-ave-dallas-tx-unit-7/kngf4j8/,"{'1 Bed': '$1,095'}"
+4208 Bowser Ave Unit G,"4208 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/4208-bowser-ave-dallas-tx-unit-g/p2lb3tt/,"{'2 Beds': '$1,695'}"
+4107 Bowser Ave Unit 204,"4107 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/4107-bowser-ave-dallas-tx-unit-204/70gmxdy/,"{'2 Beds': '$2,150'}"
+4211 Newton Ave Unit 203,"4211 Newton Ave,Dallas,TX,75219",https://www.apartments.com/4211-newton-ave-dallas-tx-unit-203/2qrl9qb/,"{'1 Bed': '$1,300'}"
+4147 Newton Ave Unit B,"4147 Newton Ave,Dallas,TX,75219",https://www.apartments.com/4147-newton-ave-dallas-tx-unit-b/ggt41mw/,"{'2 Beds': '$1,700'}"
+3225 Turtle Creek Blvd Unit 609,"3225 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/3225-turtle-creek-blvd-dallas-tx-unit-609/fm176lt/,"{'2 Beds': '$2,100'}"
+2328 Throckmorton St,"2328 Throckmorton St,Dallas,TX,75219",https://www.apartments.com/2328-throckmorton-st-dallas-tx/yr49ljr/,"{'3 Beds': '$3,250'}"
+2806 Reagan St Unit 203,"2806 Reagan St,Dallas,TX,75219",https://www.apartments.com/2806-reagan-st-dallas-tx-unit-203/l4pyzke/,"{'1 Bed': '$1,100'}"
+4744 Bradford Dr Unit B,"4744 Bradford Dr,Dallas,TX,75219",https://www.apartments.com/4744-bradford-dr-dallas-tx-unit-b/ntfr90q/,"{'2 Beds': '$1,395'}"
+4211 Holland Ave Unit 212,"4211 Holland Ave,Dallas,TX,75219",https://www.apartments.com/4211-holland-ave-dallas-tx-unit-212/dts5h2h/,{'1 Bed': '$975'}
+4525 Gilbert Ave Unit 102,"4525 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/4525-gilbert-ave-dallas-tx-unit-102/pjpz31s/,"{'1 Bed': '$1,100'}"
+4040 N Hall St Unit 303,"4040 N Hall St,Dallas,TX,75219",https://www.apartments.com/4040-n-hall-st-dallas-tx-unit-303/m142d5k/,"{'2 Beds': '$2,500'}"
+4777 Cedar Springs Rd Unit 9B,"4777 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4777-cedar-springs-rd-dallas-tx-unit-9b/eftk0fn/,"{'2 Beds': '$1,400'}"
+3102 Kings Rd Unit 1209,"3102 Kings Rd,Dallas,TX,75219",https://www.apartments.com/3102-kings-rd-dallas-tx-unit-1209/erdhe3q/,"{'1 Bed': '$1,199'}"
+4239 Rawlins St Unit 8,"4239 Rawlins St,Dallas,TX,75219",https://www.apartments.com/4239-rawlins-st-dallas-tx-unit-8/360skxf/,"{'2 Beds': '$2,895'}"
+4023 Wycliff Ave Unit 203,"4023 Wycliff Ave,Dallas,TX,75219",https://www.apartments.com/4023-wycliff-ave-dallas-tx-unit-203/80t8dd2/,"{'2 Beds': '$1,500'}"
+4300 Congress Ave Unit 113,"4300 Congress Ave,Dallas,TX,75219",https://www.apartments.com/4300-congress-ave-dallas-tx-unit-113/kbjkyqc/,"{'1 Bed': '$1,025'}"
+4520 Holland Ave Unit 107,"4520 Holland Ave,Dallas,TX,75219",https://www.apartments.com/4520-holland-ave-dallas-tx-unit-107/05g09k1/,"{'1 Bed': '$1,050'}"
+2833 Kings Rd Unit 109,"2833 Kings Rd,Dallas,TX,75219",https://www.apartments.com/2833-kings-rd-dallas-tx-unit-109/mnpvgbh/,{'1 Bed': '$995'}
+4040 Avondale Ave Unit 303,"4040 Avondale Ave,Dallas,TX,75219",https://www.apartments.com/4040-avondale-ave-dallas-tx-unit-303/272l39b/,"{'2 Beds': '$1,995'}"
+3815 Holland Ave Unit 4,"3815 Holland Ave,Dallas,TX,75219",https://www.apartments.com/3815-holland-ave-dallas-tx-unit-4/f63l2xt/,"{'2 Beds': '$1,950'}"
+4777 Cedar Springs Rd Unit 4B,"4777 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4777-cedar-springs-rd-dallas-tx-unit-4b/rw95h33/,"{'2 Beds': '$1,550'}"
+3907 Gilbert Ave Unit 3,"3907 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/3907-gilbert-ave-dallas-tx-unit-3/qdch81x/,{'1 Bed': '$950'}
+3103 Wycliff Ave Unit B,"3103 Wycliff Ave,Dallas,TX,75219",https://www.apartments.com/3103-wycliff-ave-dallas-tx-unit-b/39s8ezf/,"{'1 Bed': '$1,600'}"
+4111 Rawlins St Unit 401,"4111 Rawlins St,Dallas,TX,75219",https://www.apartments.com/4111-rawlins-st-dallas-tx-unit-401/7dhldzy/,"{'3 Beds': '$3,650'}"
+4837 Cedar Springs Rd Unit 208,"4837 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4837-cedar-springs-rd-dallas-tx-unit-208/6mfq02v/,"{'1 Bed': '$1,100'}"
+3225 Turtle Creek Blvd Unit 604A,"3225 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/3225-turtle-creek-blvd-dallas-tx-unit-604a/cmr5j8f/,"{'2 Beds': '$2,300'}"
+2727 Welborn St Unit 3,"2727 Welborn St,Dallas,TX,75219",https://www.apartments.com/2727-welborn-st-dallas-tx-unit-3/n5p1xbp/,"{'1 Bed': '$1,050'}"
+2806 Reagan St Unit 106,"2806 Reagan St,Dallas,TX,75219",https://www.apartments.com/2806-reagan-st-dallas-tx-unit-106/44th9bh/,"{'2 Beds': '$1,350'}"
+4015 Holland Ave Unit 105,"4015 Holland Ave,Dallas,TX,75219",https://www.apartments.com/4015-holland-ave-dallas-tx-unit-105/n9gv4rn/,"{'2 Beds': '$2,000'}"
+3525 Routh St Unit 5,"3525 Routh St,Dallas,TX,75219",https://www.apartments.com/3525-routh-st-dallas-tx-unit-5/kpsw669/,"{'2 Beds': '$1,995'}"
+2801 Throckmorton St,"2801 Throckmorton St,Dallas,TX,75219",https://www.apartments.com/2801-throckmorton-st-dallas-tx/cl45p0d/,{'1 Bed': '$885'}
+2525 Turtle Creek Blvd Unit 418,"2525 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/2525-turtle-creek-blvd-dallas-tx-unit-418/jyt7317/,"{'2 Beds': '$1,900'}"
+2430 Victory Park Ln Unit 2002,"2430 Victory Park Ln,Dallas,TX,75219",https://www.apartments.com/2430-victory-park-ln-dallas-tx-unit-2002/17l5kb7/,"{'1 Bed': '$3,750'}"
+4213 Dickason Ave Unit 15,"4213 Dickason Ave,Dallas,TX,75219",https://www.apartments.com/4213-dickason-ave-dallas-tx-unit-15/twl0kp8/,"{'2 Beds': '$2,350'}"
+3883 Turtle Creek Blvd Unit 2208,"3883 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/3883-turtle-creek-blvd-dallas-tx-unit-2208/nxkh83m/,"{'1 Bed': '$2,000'}"
+3914 Bowser Ave Unit 103,"3914 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/3914-bowser-ave-dallas-tx-unit-103/jwjjbq6/,"{'1 Bed': '$1,150'}"
+2614 Hood St Unit A,"2614 Hood St,Dallas,TX,75219",https://www.apartments.com/2614-hood-st-dallas-tx-unit-a/0qwt1n1/,"{'2 Beds': '$2,495'}"
+2805 Reagan St Unit 112,"2805 Reagan St,Dallas,TX,75219",https://www.apartments.com/2805-reagan-st-dallas-tx-unit-112/dlbl6zh/,{'1 Bed': '$895'}
+2323 N Houston St Unit 408,"2323 N Houston St,Dallas,TX,75219",https://www.apartments.com/2323-n-houston-st-dallas-tx-unit-408/45my36h/,"{'1 Bed': '$1,995'}"
+2806 Reagan St Unit 108,"2806 Reagan St,Dallas,TX,75219",https://www.apartments.com/2806-reagan-st-dallas-tx-unit-108/dlvb4xl/,"{'1 Bed': '$1,100'}"
+4503 Fairway Ave,"4503 Fairway Ave,Dallas,TX,75219",https://www.apartments.com/4503-fairway-ave-dallas-tx/rr4qls1/,"{'1 Bed': '$1,300'}"
+4222 Newton Ave Unit 201,"4222 Newton Ave,Dallas,TX,75219",https://www.apartments.com/4222-newton-ave-dallas-tx-unit-201/56whx6n/,"{'1 Bed': '$1,285'}"
+4224 Rawlins St Unit 101,"4224 Rawlins St,Dallas,TX,75219",https://www.apartments.com/4224-rawlins-st-dallas-tx-unit-101/prmhqyt/,"{'3 Beds': '$2,100'}"
+2722 Knight St Unit 301E,"2722 Knight St,Dallas,TX,75219",https://www.apartments.com/2722-knight-st-dallas-tx-unit-301e/bnk56db/,"{'2 Beds': '$1,275'}"
+4203 Gilbert Ave Unit 108,"4203 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/4203-gilbert-ave-dallas-tx-unit-108/487clhj/,{'1 Bed': '$825'}
+4033 Gilbert Ave Unit 107,"4033 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/4033-gilbert-ave-dallas-tx-unit-107/e39rrrp/,"{'2 Beds': '$1,250'}"
+4777 Cedar Springs Rd Unit 7P,"4777 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4777-cedar-springs-rd-dallas-tx-unit-7p/5sjsfem/,"{'2 Beds': '$1,325'}"
+4040 N Hall St Unit 113,"4040 N Hall St,Dallas,TX,75219",https://www.apartments.com/4040-n-hall-st-dallas-tx-unit-113/xex5crp/,"{'2 Beds': '$2,100'}"
+4211 Newton Ave Unit 202,"4211 Newton Ave,Dallas,TX,75219",https://www.apartments.com/4211-newton-ave-dallas-tx-unit-202/853f2f1/,"{'1 Bed': '$1,100'}"
+4402 Holland Ave Unit 103,"4402 Holland Ave,Dallas,TX,75219",https://www.apartments.com/4402-holland-ave-dallas-tx-unit-103/5rnsgnm/,"{'1 Bed': '$1,295'}"
+2806 Knight St Unit 101,"2806 Knight St,Dallas,TX,75219",https://www.apartments.com/2806-knight-st-dallas-tx-unit-101/ngme9fq/,"{'2 Beds': '$1,625'}"
+3535 Routh St Unit C,"3535 Routh St,Dallas,TX,75219",https://www.apartments.com/3535-routh-st-dallas-tx-unit-c/w0by66l/,"{'3 Beds': '$4,350'}"
+4605 Cedar Springs Rd Unit 125,"4605 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4605-cedar-springs-rd-dallas-tx-unit-125/1t2sds4/,"{'1 Bed': '$1,350'}"
+4228 Holland Ave,"4228 Holland Ave,Dallas,TX,75219",https://www.apartments.com/4228-holland-ave-dallas-tx/01k6682/,"{'3 Beds': '$3,500'}"
+2419 Knight St,"2419 Knight St,Dallas,TX,75219",https://www.apartments.com/2419-knight-st-dallas-tx/82r6583/,"{'3 Beds': '$3,600'}"
+3535 Gillespie St Unit 505,"3535 Gillespie St,Dallas,TX,75219",https://www.apartments.com/3535-gillespie-st-dallas-tx-unit-505/shqrqz6/,"{'3 Beds': '$8,000'}"
+4318 Gilbert Ave,"4318 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/4318-gilbert-ave-dallas-tx/8w6lvn3/,"{'3 Beds': '$3,500'}"
+2722 Knight St Unit 129A,"2722 Knight St,Dallas,TX,75219",https://www.apartments.com/2722-knight-st-dallas-tx-unit-129a/9q98hv4/,"{'2 Beds': '$1,650'}"
+2517 Shelby Ave Unit D,"2517 Shelby Ave,Dallas,TX,75219",https://www.apartments.com/2517-shelby-ave-dallas-tx-unit-d/mmxygeh/,"{'3 Beds': '$2,995'}"
+4501 Gilbert Ave,"4501 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/4501-gilbert-ave-dallas-tx/kc1rr7b/,"{'2 Beds': '$2,200'}"
+2833 Kings Rd Unit 103,"2833 Kings Rd,Dallas,TX,75219",https://www.apartments.com/2833-kings-rd-dallas-tx-unit-103/h31t862/,{'1 Bed': '$925'}
+4201 Bowser Ave Unit 4737,"4201 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/4201-bowser-ave-dallas-tx-unit-4737/nt651vm/,"{'1 Bed': '$2,308'}"
+2323 N Houston St Unit 613,"2323 N Houston St,Dallas,TX,75219",https://www.apartments.com/2323-n-houston-st-dallas-tx-unit-613/cdl9bzf/,"{'2 Beds': '$2,400'}"
+4620 Lester Dr,"4620 Lester Dr,Dallas,TX,75219",https://www.apartments.com/4620-lester-dr-dallas-tx/lejx67f/,"{'2 Beds': '$2,350'}"
+4111 Newton Ave Unit 17,"4111 Newton Ave,Dallas,TX,75219",https://www.apartments.com/4111-newton-ave-dallas-tx-unit-17/f44j6lv/,"{'2 Beds': '$3,000'}"
+2411 Knight St,"2411 Knight St,Dallas,TX,75219",https://www.apartments.com/2411-knight-st-dallas-tx/nmnvqxp/,"{'3 Beds': '$3,200'}"
+4210 Prescott Ave,"4210 Prescott Ave,Dallas,TX,75219",https://www.apartments.com/4210-prescott-ave-dallas-tx/p0q92sr/,"{'3 Beds': '$2,850'}"
+2722 Knight St Unit 407B,"2722 Knight St,Dallas,TX,75219",https://www.apartments.com/2722-knight-st-dallas-tx-unit-407b/8twqh11/,"{'2 Beds': '$1,350'}"
+2806 Reagan St Unit 103,"2806 Reagan St,Dallas,TX,75219",https://www.apartments.com/2806-reagan-st-dallas-tx-unit-103/vehn61f/,"{'1 Bed': '$1,100'}"
+4851 Cedar Springs Rd Unit 182M,"4851 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4851-cedar-springs-rd-dallas-tx-unit-182m/mcvcjhj/,"{'2 Beds': '$1,150'}"
+4859 Cedar Springs Rd Unit 159,"4859 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4859-cedar-springs-rd-dallas-tx-unit-159/kqce5kb/,"{'1 Bed': '$1,000'}"
+4558 Roland Ave Unit D,"4558 Roland Ave,Dallas,TX,75219",https://www.apartments.com/4558-roland-ave-dallas-tx-unit-d/s4xgqb6/,"{'2 Beds': '$2,295'}"
+4414 Cedar Springs Rd Unit 219,"4414 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4414-cedar-springs-rd-dallas-tx-unit-219/h838pk3/,"{'2 Beds': '$1,550'}"
+3922 Gilbert Ave Unit 113,"3922 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/3922-gilbert-ave-dallas-tx-unit-113/0cernp2/,"{'2 Beds': '$2,100'}"
+4319 Bowser Ave Unit 104,"4319 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/4319-bowser-ave-dallas-tx-unit-104/xh1zyjn/,"{'2 Beds': '$2,095'}"
+4203 Gilbert Ave Unit 107,"4203 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/4203-gilbert-ave-dallas-tx-unit-107/wyphxzj/,"{'2 Beds': '$1,195'}"
+3225 Turtle Creek Blvd Unit 1031B,"3225 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/3225-turtle-creek-blvd-dallas-tx-unit-1031b/xk5cjsm/,"{'1 Bed': '$1,525'}"
+4777 Cedar Springs Rd Unit 4D4,"4777 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4777-cedar-springs-rd-dallas-tx-unit-4d4/215t77c/,"{'2 Beds': '$1,550'}"
+3225 Turtle Creek Blvd Unit 1514,"3225 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/3225-turtle-creek-blvd-dallas-tx-unit-1514/rc2mr42/,"{'1 Bed': '$1,500'}"
+3627 Dickason Ave Unit 7,"3627 Dickason Ave,Dallas,TX,75219",https://www.apartments.com/3627-dickason-ave-dallas-tx-unit-7/ncrk4pq/,"{'2 Beds': '$1,525'}"
+4310 Sylvester St,"4310 Sylvester St,Dallas,TX,75219",https://www.apartments.com/4310-sylvester-st-dallas-tx/0n1xbg3/,"{'4+ Beds': '$3,200'}"
+4317 Hartford St Unit 111,"4317 Hartford St,Dallas,TX,75219",https://www.apartments.com/4317-hartford-st-dallas-tx-unit-111/q0mhqzy/,"{'2 Beds': '$1,250'}"
+3102 Kings Rd Unit 1202,"3102 Kings Rd,Dallas,TX,75219",https://www.apartments.com/3102-kings-rd-dallas-tx-unit-1202/0q9x8z2/,"{'1 Bed': '$1,050'}"
+2408 Victory Park Ln Unit 1034,"2408 Victory Park Ln,Dallas,TX,75219",https://www.apartments.com/2408-victory-park-ln-dallas-tx-unit-1034/ffjypss/,"{'1 Bed': '$3,450'}"
+4122 Avondale Ave Unit 301,"4122 Avondale Ave,Dallas,TX,75219",https://www.apartments.com/4122-avondale-ave-dallas-tx-unit-301/rky5ee1/,"{'2 Beds': '$1,900'}"
+4777 Cedar Springs Rd Unit 5A,"4777 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4777-cedar-springs-rd-dallas-tx-unit-5a/58p27kp/,"{'2 Beds': '$1,450'}"
+4207 Bowser Ave Unit 203A,"4207 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/4207-bowser-ave-dallas-tx-unit-203a/f1lgf6s/,{'Studio': '$695'}
+4764 Lake Ave Unit 219,"4764 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4764-lake-ave-dallas-tx-unit-219/94mmmv5/,{'1 Bed': '$795'}
+4793 Lake Ave Unit 316,"4793 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4793-lake-ave-dallas-tx-unit-316/wyxvy2k/,{'1 Bed': '$795'}
+4795 Lake Ave Unit 318,"4795 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4795-lake-ave-dallas-tx-unit-318/epwhp8m/,{'1 Bed': '$795'}
+4633 Fairmount St Unit 103,"4633 Fairmount St,Dallas,TX,75219",https://www.apartments.com/4633-fairmount-st-dallas-tx-unit-103/380qgee/,"{'2 Beds': '$1,400'}"
+4633 Fairmount St Unit 203,"4633 Fairmount St,Dallas,TX,75219",https://www.apartments.com/4633-fairmount-st-dallas-tx-unit-203/31mcl0d/,"{'2 Beds': '$1,400'}"
+4633 Fairmount St Unit 110,"4633 Fairmount St,Dallas,TX,75219",https://www.apartments.com/4633-fairmount-st-dallas-tx-unit-110/zmwmykx/,"{'2 Beds': '$1,400'}"
+4769 Lake Ave Unit 224,"4769 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4769-lake-ave-dallas-tx-unit-224/5h5rhyp/,{'1 Bed': '$795'}
+4799 Lake Ave Unit 322,"4799 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4799-lake-ave-dallas-tx-unit-322/gwmk4sx/,{'1 Bed': '$795'}
+4761 Lake Ave Unit 216,"4761 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4761-lake-ave-dallas-tx-unit-216/fgqemft/,{'1 Bed': '$795'}
+4633 Fairmount St Unit 104,"4633 Fairmount St,Dallas,TX,75219",https://www.apartments.com/4633-fairmount-st-dallas-tx-unit-104/n1qhx3q/,"{'2 Beds': '$1,500'}"
+4738 Lake Ave Unit 130,"4738 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4738-lake-ave-dallas-tx-unit-130/xfk4exm/,{'1 Bed': '$795'}
+4794 Lake Ave Unit 317,"4794 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4794-lake-ave-dallas-tx-unit-317/4yy3y8k/,{'1 Bed': '$795'}
+4207 Bowser Ave Unit 208,"4207 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/4207-bowser-ave-dallas-tx-unit-208/51jyp7q/,{'1 Bed': '$895'}
+4768 Lake Ave Unit 223,"4768 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4768-lake-ave-dallas-tx-unit-223/flc9cqs/,{'1 Bed': '$795'}
+1 bedroom in Dallas TX 75219,"2600 Arroyo Ave,Dallas,TX,75219",https://www.apartments.com/1-bedroom-in-dallas-tx-75219-dallas-tx/es1r53m/,{'1 Bed': '$830'}
+"2 br, 1.5 bath House - 4208 Bowser Ave #G","4208 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/2-br-15-bath-house-4208-bowser-ave-g-dallas-tx/jt01by5/,"{'2 Beds': '$1,695'}"
+3310 Douglas Ave,"3310 Douglas Ave,Dallas,TX,75219",https://www.apartments.com/3310-douglas-ave-dallas-tx/smt2kf5/,{'1 Bed': '$850'}
+3310 Douglas Ave,"3310 Douglas Ave,Dallas,TX,75219",https://www.apartments.com/3310-douglas-ave-dallas-tx/nsvjgnq/,"{'1 Bed': '$1,025'}"
+4633 Fairmount St Unit 101,"4633 Fairmount St,Dallas,TX,75219",https://www.apartments.com/4633-fairmount-st-dallas-tx-unit-101/x42rrxm/,"{'1 Bed': '$1,150'}"
+4633 Fairmount St Unit 117,"4633 Fairmount St,Dallas,TX,75219",https://www.apartments.com/4633-fairmount-st-dallas-tx-unit-117/jn7ms04/,"{'3 Beds': '$1,740'}"
+4737 Lake Ave Unit 129,"4737 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4737-lake-ave-dallas-tx-unit-129/w35z03j/,{'1 Bed': '$795'}
+4791 Lake Ave Unit 314,"4791 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4791-lake-ave-dallas-tx-unit-314/385y0wf/,{'1 Bed': '$795'}
+4633 Fairmount St Unit 214,"4633 Fairmount St,Dallas,TX,75219",https://www.apartments.com/4633-fairmount-st-dallas-tx-unit-214/tks5698/,"{'3 Beds': '$1,740'}"
+4785 Lake Ave Unit 240,"4785 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4785-lake-ave-dallas-tx-unit-240/t6xxf0b/,{'Studio': '$695'}
+4207 Bowser Ave Unit 103A,"4207 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/4207-bowser-ave-dallas-tx-unit-103a/wfexs3l/,{'Studio': '$695'}
+4207 Bowser Ave Unit 202,"4207 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/4207-bowser-ave-dallas-tx-unit-202/wg9xrvl/,{'1 Bed': '$795'}
+4633 Fairmount St Unit 217,"4633 Fairmount St,Dallas,TX,75219",https://www.apartments.com/4633-fairmount-st-dallas-tx-unit-217/ggdbcrx/,"{'3 Beds': '$1,740'}"
+4207 Bowser Ave Unit 112,"4207 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/4207-bowser-ave-dallas-tx-unit-112/sky2n66/,{'1 Bed': '$895'}
+4751 Lake Ave Unit 205,"4751 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4751-lake-ave-dallas-tx-unit-205/m20q1xj/,{'1 Bed': '$795'}
+4783 Lake Ave Unit 238,"4783 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4783-lake-ave-dallas-tx-unit-238/dyzcyfk/,{'1 Bed': '$795'}
+4777 Lake Ave Unit 232,"4777 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4777-lake-ave-dallas-tx-unit-232/zzt27xw/,{'1 Bed': '$795'}
+4797 Lake Ave Unit 320,"4797 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4797-lake-ave-dallas-tx-unit-320/8ccgvn1/,{'1 Bed': '$795'}
+4765 Lake Ave Unit 220,"4765 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4765-lake-ave-dallas-tx-unit-220/rh9v380/,{'1 Bed': '$795'}
+4741 Lake Ave Unit 133,"4741 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4741-lake-ave-dallas-tx-unit-133/lbxbtge/,{'1 Bed': '$795'}
+3922 Gilbert Ave,"3922 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/3922-gilbert-ave-dallas-tx/d5wlcmh/,"{'3 Beds': '$2,100'}"
+4716 Lake Ave Unit 107,"4716 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4716-lake-ave-dallas-tx-unit-107/cs72w1e/,{'1 Bed': '$795'}
+4736 Lake Ave Unit 128,"4736 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4736-lake-ave-dallas-tx-unit-128/kfvhwb9/,{'1 Bed': '$795'}
+2909 Lucas Dr,"2909 Lucas Dr,Dallas,TX,75219",https://www.apartments.com/2909-lucas-dr-dallas-tx/8y2nls1/,{'1 Bed': '$936'}
+2909 Lucas Dr,"2909 Lucas Dr,Dallas,TX,75219",https://www.apartments.com/2909-lucas-dr-dallas-tx/fmd5srv/,{'1 Bed': '$940'}
+Oaklawn Remodeled Studio Furnished Option,"4347 Dickason Ave,Dallas,TX,75219",https://www.apartments.com/oaklawn-remodeled-studio-furnished-option-dallas-tx-unit-116/dh9hvcj/,"{'1 Bed': '$1,995'}"
+"2 br, 1.5 bath House - 2806 Knight #101","2806 Knight St,Dallas,TX,75219",https://www.apartments.com/2-br-15-bath-house-2806-knight-101-dallas-tx/0440221/,"{'2 Beds': '$1,625'}"
+4734 Lake Ave Unit 126,"4734 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4734-lake-ave-dallas-tx-unit-126/zd1ts3x/,{'1 Bed': '$795'}
+"2 br, 2.5 bath House - 4307 Gilbert Ave #210","4307 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/2-br-25-bath-house-4307-gilbert-ave-210-dallas-tx/plplttr/,"{'2 Beds': '$1,600'}"
+4414 Cedar Springs Rd,"4414 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/4414-cedar-springs-rd-dallas-tx/38h61pg/,"{'2 Beds': '$1,525'}"
+4213 Dickason Ave,"4213 Dickason Ave,Dallas,TX,75219",https://www.apartments.com/4213-dickason-ave-dallas-tx/6lrzmsr/,"{'2 Beds': '$2,350'}"
+4207 Bowser Ave Unit 207,"4207 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/4207-bowser-ave-dallas-tx-unit-207/vr2gfmg/,{'1 Bed': '$895'}
+4633 Fairmount St Unit 207,"4633 Fairmount St,Dallas,TX,75219",https://www.apartments.com/4633-fairmount-st-dallas-tx-unit-207/m2w3q6j/,"{'1 Bed': '$1,150'}"
+4806 Lake Ave Unit 335,"4806 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4806-lake-ave-dallas-tx-unit-335/lqcybtd/,{'1 Bed': '$795'}
+4633 Fairmount St Unit 202,"4633 Fairmount St,Dallas,TX,75219",https://www.apartments.com/4633-fairmount-st-dallas-tx-unit-202/g4429vx/,"{'1 Bed': '$1,150'}"
+3310 Douglas Ave,"3310 Douglas Ave,Dallas,TX,75219",https://www.apartments.com/3310-douglas-ave-dallas-tx/kl5md4c/,"{'1 Bed': '$1,025'}"
+3914 Hawthorne Ave,"3914 Hawthorne Ave,Dallas,TX,75219",https://www.apartments.com/3914-hawthorne-ave-dallas-tx/8lf4fn2/,"{'2 Beds': '$1,600'}"
+4017 Rawlins St,"4017 Rawlins St,Dallas,TX,75219",https://www.apartments.com/4017-rawlins-st-dallas-tx/sgee8t6/,"{'2 Beds': '$1,825'}"
+2408 Victory Park Ln Unit 840,"2408 Victory Park Ln,Dallas,TX,75219",https://www.apartments.com/2408-victory-park-ln-dallas-tx-unit-840/pj7f78v/,"{'2 Beds': '$3,500'}"
+3919 Gilbert Ave Unit 3,"3919 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/3919-gilbert-ave-dallas-tx-unit-3/t2jecy8/,"{'2 Beds': '$1,800'}"
+4525 Gilbert Ave Unit 201,"4525 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/4525-gilbert-ave-dallas-tx-unit-201/kslgy28/,{'1 Bed': '$995'}
+Bowser Nest,"4015 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/bowser-nest-dallas-tx/ee0c19q/,"{'1 Bed': '$1,100'}"
+Villa Torino,"2601 Arroyo Ave,Dallas,TX,75219",https://www.apartments.com/villa-torino-dallas-tx/zxrm2dz/,"{'1 Bed': '$734 – 944', '2 Beds': '$1,134'}"
+Alto Highland Park Brownstones,"4201 Lomo Alto Ave,Dallas,TX,75219",https://www.apartments.com/alto-highland-park-brownstones-dallas-tx/sj88hh6/,"{'1 Bed': '$2,288 – 2,958', '2 Beds': '$2,410 – 3,855', '3 Beds': '$3,400 – 4,975'}"
+Hall Street Villas,"4014-4018 N Hall St,Dallas,TX,75219",https://www.apartments.com/hall-street-villas-dallas-tx/mf541pl/,{'1 Bed': '$999'}
+Monterey Village,"2930 Kings Rd,Dallas,TX,75219",https://www.apartments.com/monterey-village-dallas-tx/dff18ch/,"{'1 Bed': '$899', '2 Beds': '$969'}"
+Lincoln Court Apartments,"3838 Rawlins St,Dallas,TX,75219",https://www.apartments.com/lincoln-court-apartments-dallas-tx/w9mhd7h/,"{'1 Bed': '$1,049'}"
+Casa Valencia,"4619 Lake Ave,Dallas,TX,75219",https://www.apartments.com/casa-valencia-dallas-tx/r96p611/,"{'2 Beds': '$1,244'}"
+Springs Apartments,"4810 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/springs-apartments-dallas-tx/sg30f84/,"{'Studio': '$810', '1 Bed': '$885'}"
+Rawlins Chateau,"3929 Rawlins St,Dallas,TX,75219",https://www.apartments.com/rawlins-chateau-dallas-tx/3p03v7f/,"{'Studio': '$695', '1 Bed': '$825'}"
+The Monroe,"5051 Lahoma St,Dallas,TX,75235",https://www.apartments.com/the-monroe-dallas-tx/ml7m4qj/,"{'1 Bed': '$1,022 – 1,679', '2 Beds': '$1,369 – 2,364'}"
+3003 Carlisle St,"3003 Carlisle St,Dallas,TX,75204",https://www.apartments.com/3003-carlisle-st-dallas-tx/je4x5e5/,"{'1 Bed': '$1,399'}"
+1400 Hi Line Dr,"1400 Hi Line Dr,Dallas,TX,75207",https://www.apartments.com/1400-hi-line-dr-dallas-tx/px70x9v/,"{'2 Beds': '$2,287'}"
+3906 Buena Vista St Unit 19,"3906 Buena Vista St,Dallas,TX,75204",https://www.apartments.com/3906-buena-vista-st-dallas-tx-unit-19/w1m3f7j/,"{'2 Beds': '$2,200'}"
+3203 Carlisle St Unit 215,"3203 Carlisle St,Dallas,TX,75204",https://www.apartments.com/3203-carlisle-st-dallas-tx-unit-215/f8m4jrv/,"{'2 Beds': '$1,000'}"
+4553 Rheims Pl,"4553 Rheims Pl,Dallas,TX,75205",https://www.apartments.com/4553-rheims-pl-dallas-tx/240c6pb/,"{'4 Beds': '$6,200'}"
+4501 Westway Ave Unit 4,"4501 Westway Ave,Dallas,TX,75205",https://www.apartments.com/4501-westway-ave-dallas-tx-unit-4/dsvxnxh/,"{'1 Bed': '$1,695'}"
+4593 Belfort Pl,"4593 Belfort Pl,Dallas,TX,75205",https://www.apartments.com/4593-belfort-pl-dallas-tx/ny4kbkn/,"{'3 Beds': '$4,300'}"
+1400 Hi Line Dr Unit 2317,"1400 Hi Line Dr,Dallas,TX,75207",https://www.apartments.com/1400-hi-line-dr-dallas-tx-unit-2317/2m5x6pc/,"{'2 Beds': '$3,700'}"
+4569 Bordeaux Ave,"4569 Bordeaux Ave,Dallas,TX,75205",https://www.apartments.com/4569-bordeaux-ave-dallas-tx/8ejwyb0/,"{'3 Beds': '$6,500'}"
+3906 Buena Vista St Unit 5,"3906 Buena Vista St,Dallas,TX,75204",https://www.apartments.com/3906-buena-vista-st-dallas-tx-unit-5/93gcxp4/,"{'2 Beds': '$2,500'}"
+Carlisle On The Katy Trail,"3140 N Hall St,Dallas,TX,75204",https://www.apartments.com/carlisle-on-the-katy-trail-dallas-tx/ye36pys/,"{'Studio': '$800 – 900', '1 Bed': '$945 – 1,010', '2 Beds': '$1,440'}"
+Bowser Court Apartments,"4311 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/bowser-court-apartments-dallas-tx/5zpedeq/,{}
+Holland Court Apartments,"4011 Holland Ave,Dallas,TX,75219",https://www.apartments.com/holland-court-apartments-dallas-tx/fl1rdlt/,{}
+Bowser Apartments,"4227 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/bowser-apartments-dallas-tx/evcknqn/,{}
+Douglas Court Apartments,"4101 Douglas Ave,Dallas,TX,75219",https://www.apartments.com/douglas-court-apartments-dallas-tx/wnbpc1h/,{}
+3914 Bowser Avenue,"3914 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/3914-bowser-avenue-dallas-tx/jjswj95/,{}
+The House,"2200 Victory Ave,Dallas,TX,75219",https://www.apartments.com/the-house-dallas-tx/vcyd06g/,{}
+The Residences @ W - Dallas Victory,"2440 Victory Park Ln,Dallas,TX,75219",https://www.apartments.com/the-residences-w-dallas-victory-dallas-tx/eebnezp/,{}
+2722 Throckmorton,"2800 Throckmorton St,Dallas,TX,75219",https://www.apartments.com/2722-throckmorton-dallas-tx/mc7295h/,{}
+Bailiwick Apartments,"4425 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/bailiwick-apartments-dallas-tx/t10gct9/,{}
+Tree Top Apartments,"4207 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/tree-top-apartments-dallas-tx/jz81bf6/,{}
+The Boxtree Apartments,"4633-4637 Fairmount St,Dallas,TX,75219",https://www.apartments.com/the-boxtree-apartments-dallas-tx/13tt824/,{}
+Canterbury Apartments,"2900 Reagan St,Dallas,TX,75219",https://www.apartments.com/canterbury-apartments-dallas-tx/wvdd21j/,{}
+3827 Bowser Ave,"3827 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/3827-bowser-ave-dallas-tx/rnv5we1/,{}
+4222 Newton Ave,"4222 Newton Ave,Dallas,TX,75219",https://www.apartments.com/4222-newton-ave-dallas-tx/4kj9qdj/,{}
+2815 Welborn St,"2815 Welborn St,Dallas,TX,75219",https://www.apartments.com/2815-welborn-st-dallas-tx/jl4x106/,{}
+3911 Holland Ave,"3911 Holland Ave,Dallas,TX,75219",https://www.apartments.com/3911-holland-ave-dallas-tx/g2gyqcy/,{}
+Franconia Court,"4125 Holland Ave,Dallas,TX,75219",https://www.apartments.com/franconia-court-dallas-tx/0nmn1v1/,{}
+4049 Prescott Ave,"4049 Prescott Ave,Dallas,TX,75219",https://www.apartments.com/4049-prescott-ave-dallas-tx/yjqggkv/,{}
+Villas On Bowser,"4330 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/villas-on-bowser-dallas-tx/7fys2xw/,{}
+3901 Hawthorne Ave,"3901 Hawthorne Ave,Dallas,TX,75219",https://www.apartments.com/3901-hawthorne-ave-dallas-tx/sxt19f6/,{}
+3811 Holland Ave,"3811 Holland Ave,Dallas,TX,75219",https://www.apartments.com/3811-holland-ave-dallas-tx/6z79sys/,{}
+Wycliff Court Apartments,"4217 Wycliff Ave,Dallas,TX,75219",https://www.apartments.com/wycliff-court-apartments-dallas-tx/d5ff60h/,{}
+Bowser Apartments,"4202 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/bowser-apartments-dallas-tx/dnm14rk/,{}
+4224 Prescott Ave,"4224 Prescott Ave,Dallas,TX,75219",https://www.apartments.com/4224-prescott-ave-dallas-tx/kctfgv8/,{}
+4026 Holland Ave,"4026 Holland Ave,Dallas,TX,75219",https://www.apartments.com/4026-holland-ave-dallas-tx/xggx0kp/,{}
+4227 Wycliff Ave,"4227 Wycliff Ave,Dallas,TX,75219",https://www.apartments.com/4227-wycliff-ave-dallas-tx/h8ykll2/,{}
+4226 Wycliff Ave,"4226 Wycliff Ave,Dallas,TX,75219",https://www.apartments.com/4226-wycliff-ave-dallas-tx/g07n2rz/,{}
+Belmont Village Senior Living at Turtle Creek,"3535 N Hall St,Dallas,TX,75219",https://www.apartments.com/belmont-village-senior-living-at-turtle-creek-dallas-tx/cj5npse/,{}
+St. Charles Apartments,"3907 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/st-charles-apartments-dallas-tx/by74p8c/,{}
+Chelsea Court,"4203 Holland Ave,Dallas,TX,75219",https://www.apartments.com/chelsea-court-dallas-tx/yvb7nrr/,{}
+Cazen,"4206 Hawthorne Ave,Dallas,TX,75219",https://www.apartments.com/cazen-dallas-tx/h14dck0/,{}
+Renaissance On Turtle Creek,"3225 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/renaissance-on-turtle-creek-dallas-tx/nxswgcq/,{}
+4004 Gilbert Ave,"4004 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/4004-gilbert-ave-dallas-tx/dwsjm7k/,{}
+4031 Holland Ave,"4031 Holland Ave,Dallas,TX,75219",https://www.apartments.com/4031-holland-ave-dallas-tx/t108cz8/,{}
+Villas at the Mansion,"3424 Gillespie St,Dallas,TX,75219",https://www.apartments.com/villas-at-the-mansion-dallas-tx/p78lmes/,{}
+3701-3711 Routh St,"3701-3711 Routh St,Dallas,TX,75219",https://www.apartments.com/3701-3711-routh-st-dallas-tx/2h2f2fb/,{}
+Smith Place,"4333 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/smith-place-dallas-tx/7tfcewz/,{}
+4150 Hawthorne Ave,"4150 Hawthorne Ave,Dallas,TX,75219",https://www.apartments.com/4150-hawthorne-ave-dallas-tx/4sl2qqj/,{}
+4113-4121 Douglas Ave,"4113-4121 Douglas Ave,Dallas,TX,75219",https://www.apartments.com/4113-4121-douglas-ave-dallas-tx/p991lct/,{}
+The Little Turtle,"4300 Holland Ave,Dallas,TX,75219",https://www.apartments.com/the-little-turtle-dallas-tx/wszbnlk/,{}
+Hollander,"3807 Holland Ave,Dallas,TX,75219",https://www.apartments.com/hollander-dallas-tx/00r8j61/,{}
+Chalet Apartments,"3711 Holland Ave,Dallas,TX,75219",https://www.apartments.com/chalet-apartments-dallas-tx/pt0zp8v/,{}
+Douglas Flats,"2902 Douglas Ave,Dallas,TX,75219",https://www.apartments.com/douglas-flats-dallas-tx/6nyn49t/,{}
+3911 Prescott Ave,"3911 Prescott Ave,Dallas,TX,75219",https://www.apartments.com/3911-prescott-ave-dallas-tx/r9cpp80/,{}
+Villas on Gilbert,"4203 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/villas-on-gilbert-dallas-tx/762vy5x/,{}
+Gilbert Place,"4020 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/gilbert-place-dallas-tx/6sgxlft/,{}
+4001 Hawthorne Ave,"4001 Hawthorne Ave,Dallas,TX,75219",https://www.apartments.com/4001-hawthorne-ave-dallas-tx/jcczm57/,{}
+4115 Gilbert Ave,"4115 Gilbert Ave,Dallas,TX,75219",https://www.apartments.com/4115-gilbert-ave-dallas-tx/kysr6x9/,{}
+Prescott Arms,"4226 Prescott Ave,Dallas,TX,75219",https://www.apartments.com/prescott-arms-dallas-tx/n27j0np/,{}
+Gilbert Oaks,"4307 Gilbert St,Dallas,TX,75219",https://www.apartments.com/gilbert-oaks-dallas-tx/5c9817p/,{}
+Holland Avenue Apartments,"4429 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/holland-avenue-apartments-dallas-tx/7m1nt2w/,{}
+the Fairfield,"4026 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/the-fairfield-dallas-tx/dvkj75k/,{}
+4107 Herschel Ave,"4107 Herschel Ave,Dallas,TX,75219",https://www.apartments.com/4107-herschel-ave-dallas-tx/mxpwv5h/,{}
+4100 Hawthorne Ave,"4100 Hawthorne Ave,Dallas,TX,75219",https://www.apartments.com/4100-hawthorne-ave-dallas-tx/c8ydcye/,{}
+Alexan Maple,"4014 Fairmount St,Dallas,TX,75219",https://www.apartments.com/alexan-maple-dallas-tx/6l9gbbt/,{}
+3535 Routh St,"3535 Routh St,Dallas,TX,75219",https://www.apartments.com/3535-routh-st-dallas-tx/yv7pqet/,{}
+4223 Wycliff Ave,"4223 Wycliff Ave,Dallas,TX,75219",https://www.apartments.com/4223-wycliff-ave-dallas-tx/ksn393b/,{}
+4233-4235 Wycliff Ave,"4233-4235 Wycliff Ave,Dallas,TX,75219",https://www.apartments.com/4233-4235-wycliff-ave-dallas-tx/tjnvk7b/,{}
+3530 Cedar Springs Rd,"3530 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/3530-cedar-springs-rd-dallas-tx/kgqmc6c/,{}
+Routh Place,"2512-2518 Welborn St,Dallas,TX,75219",https://www.apartments.com/routh-place-dallas-tx/lv38sgd/,{}
+3905 Hawthorne Ave,"3905 Hawthorne Ave,Dallas,TX,75219",https://www.apartments.com/3905-hawthorne-ave-dallas-tx/5l33r7m/,{}
+4043 Herschel Ave,"4043 Herschel Ave,Dallas,TX,75219",https://www.apartments.com/4043-herschel-ave-dallas-tx/x2hqbzq/,{}
+The Vendome on Turtle Creek,"3505 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/the-vendome-on-turtle-creek-dallas-tx/3nz1z9f/,{}
+Lomo Blanco Condominiums,"4406 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/lomo-blanco-condominiums-dallas-tx/qh96b9x/,{}
+Image Arms,"3909-3911 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/image-arms-dallas-tx/tdvj6b8/,{}
+Newton Park,"4110 Newton Ave,Dallas,TX,75219",https://www.apartments.com/newton-park-dallas-tx/ht6g633/,{}
+Shadow Apartments,"4322 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/shadow-apartments-dallas-tx/xd2g5rq/,{}
+Ltd. Edition No. 2505,"2505 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/ltd-edition-no-2505-dallas-tx/tms0yrc/,{}
+4330 Holland Ave,"4330 Holland Ave,Dallas,TX,75219",https://www.apartments.com/4330-holland-ave-dallas-tx/9wxw6r4/,{}
+4222 Holland Ave,"4222 Holland Ave,Dallas,TX,75219",https://www.apartments.com/4222-holland-ave-dallas-tx/df3rcjk/,{}
+4102 Douglas Ave,"4102 Douglas Ave,Dallas,TX,75219",https://www.apartments.com/4102-douglas-ave-dallas-tx/svvb394/,{}
+Eden At Avondale Apartments,"4121 Avondale Ave,Dallas,TX,75219",https://www.apartments.com/eden-at-avondale-apartments-dallas-tx/j9mn4k7/,{}
+Avon Apartments,"3812 Lemmon Ave,Dallas,TX,75219",https://www.apartments.com/avon-apartments-dallas-tx/6g79pgt/,{}
+4427 Holland Ave,"4427 Holland Ave,Dallas,TX,75219",https://www.apartments.com/4427-holland-ave-dallas-tx/9dpn0b5/,{}
+4000 Hawthorne Ave,"4000 Hawthorne Ave,Dallas,TX,75219",https://www.apartments.com/4000-hawthorne-ave-dallas-tx/g0q7v3x/,{}
+4105 Prescott Ave,"4105 Prescott Ave,Dallas,TX,75219",https://www.apartments.com/4105-prescott-ave-dallas-tx/cpq4bvg/,{}
+2805 Reagan St,"2805 Reagan St,Dallas,TX,75219",https://www.apartments.com/2805-reagan-st-dallas-tx/tc90t8b/,{}
+Manor Oak Apartments,"3913 Rawlins St,Dallas,TX,75219",https://www.apartments.com/manor-oak-apartments-dallas-tx/mx0qh6k/,{}
+Hartford Townhomes,"4323 Dickason Ave,Dallas,TX,75219",https://www.apartments.com/hartford-townhomes-dallas-tx/27s7wl9/,{}
+Melrose Place Apartments,"2816 Lucas Dr,Dallas,TX,75219",https://www.apartments.com/melrose-place-apartments-dallas-tx/0qb7s31/,{}
+El Arroyo Apartments,"2514-2518 Arroyo Ave,Dallas,TX,75219",https://www.apartments.com/el-arroyo-apartments-dallas-tx/7m7gwfw/,{}
+Hondo Park,"2544 Hondo Ave,Dallas,TX,75219",https://www.apartments.com/hondo-park-dallas-tx/pnegz9v/,{}
+4040 Brown Apartments,"4040 Brown St,Dallas,TX,75219",https://www.apartments.com/4040-brown-apartments-dallas-tx/jpbdmg4/,{}
+Town Club Apartments I - II,"4525 Sylvester St,Dallas,TX,75219",https://www.apartments.com/town-club-apartments-i-ii-dallas-tx/58fy3dq/,{}
+4710 Lake Ave,"4710 Lake Ave,Dallas,TX,75219",https://www.apartments.com/4710-lake-ave-dallas-tx/j6vkss5/,{}
+Cedar Springs Place,"2515-2533 Lucas Dr,Dallas,TX,75219",https://www.apartments.com/cedar-springs-place-dallas-tx/6b9x0qv/,{}
+2787 Kings Rd,"2787 Kings Rd,Dallas,TX,75219",https://www.apartments.com/2787-kings-rd-dallas-tx/dxy7ysk/,{}
+The Mirabella,"4703-4711 Bradford Dr,Dallas,TX,75219",https://www.apartments.com/the-mirabella-dallas-tx/kbv2398/,{}
+The Viceroy,"2833 Kings Rd,Dallas,TX,75219",https://www.apartments.com/the-viceroy-dallas-tx/chfgstf/,{}
+Village Square,"4014 Fairmount St,Dallas,TX,75219",https://www.apartments.com/village-square-dallas-tx/b5bse38/,{}
+2525 Reagan St,"2525 Reagan St,Dallas,TX,75219",https://www.apartments.com/2525-reagan-st-dallas-tx/npf9rnn/,{}
+2825 Reagan St,"2825 Reagan St,Dallas,TX,75219",https://www.apartments.com/2825-reagan-st-dallas-tx/gl5e1tz/,{}
+3412 Knight St,"3412 Knight St,Dallas,TX,75219",https://www.apartments.com/3412-knight-st-dallas-tx/g0jxl7z/,{}
+Alpine House Condominiums,"2708 Reagan St,Dallas,TX,75219",https://www.apartments.com/alpine-house-condominiums-dallas-tx/6x6h3yr/,{}
+3911-3917 N Hall St,"3911-3917 N Hall St,Dallas,TX,75219",https://www.apartments.com/3911-3917-n-hall-st-dallas-tx/y8dq2qr/,{}
+4005 N Hall St,"4005 N Hall St,Dallas,TX,75219",https://www.apartments.com/4005-n-hall-st-dallas-tx/803kjl1/,{}
+3916-3922 Rawlins St,"3916-3922 Rawlins St,Dallas,TX,75219",https://www.apartments.com/3916-3922-rawlins-st-dallas-tx/s327ef7/,{}
+Casa Bonita,"3912 N Hall St,Dallas,TX,75219",https://www.apartments.com/casa-bonita-dallas-tx/58zdpem/,{}
+River Oaks Condos,"4837 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/river-oaks-condos-dallas-tx/qbgzeqz/,{}
+Hartford Annex,"4310-4322 Hartford St,Dallas,TX,75219",https://www.apartments.com/hartford-annex-dallas-tx/q0tgnxz/,{}
+Shelby 2707,"2707-2711 Shelby Ave,Dallas,TX,75219",https://www.apartments.com/shelby-2707-dallas-tx/tgjepnb/,{}
+2808 Throckmorton St,"2808 Throckmorton St,Dallas,TX,75219",https://www.apartments.com/2808-throckmorton-st-dallas-tx/0vgyp93/,{}
+The Delano,"2806 Reagan St,Dallas,TX,75219",https://www.apartments.com/the-delano-dallas-tx/2cfysg9/,{}
+2727 Shelby Ave,"2727 Shelby Ave,Dallas,TX,75219",https://www.apartments.com/2727-shelby-ave-dallas-tx/ge72n8z/,{}
+4116-4118 Rawlins St,"4116-4118 Rawlins St,Dallas,TX,75219",https://www.apartments.com/4116-4118-rawlins-st-dallas-tx/ssm4t44/,{}
+2806 Knight St,"2806 Knight St,Dallas,TX,75219",https://www.apartments.com/2806-knight-st-dallas-tx/27kfp4c/,{}
+2807 Throckmorton St,"2807 Throckmorton St,Dallas,TX,75219",https://www.apartments.com/2807-throckmorton-st-dallas-tx/2vlrf79/,{}
+Hartford Apartments,"4328 Hartford St,Dallas,TX,75219",https://www.apartments.com/hartford-apartments-dallas-tx/8rsmxr2/,{}
+Los Nogales,"4331 Dickason Ave,Dallas,TX,75219",https://www.apartments.com/los-nogales-dallas-tx/9wg6c95/,{}
+Cambridge Apartments,"2816 Throckmorton St,Dallas,TX,75219",https://www.apartments.com/cambridge-apartments-dallas-tx/p5mx9mt/,{}
+4232 Rawlins St,"4232 Rawlins St,Dallas,TX,75219",https://www.apartments.com/4232-rawlins-st-dallas-tx/2gl0yh9/,{}
+Cedar Tree Apartments,"3901 N Hall St,Dallas,TX,75219",https://www.apartments.com/cedar-tree-apartments-dallas-tx/fcty8ks/,{}
+Haven,"4040 N Hall St,Dallas,TX,75219",https://www.apartments.com/haven-dallas-tx/6wdly8v/,{}
+3310 Douglas Ave,"3310 Douglas Ave,Dallas,TX,75219",https://www.apartments.com/3310-douglas-ave-dallas-tx/q3s3dzy/,{}
+Cedar Tree,"2909 Lucas Dr,Dallas,TX,75219",https://www.apartments.com/cedar-tree-dallas-tx/0sv1we1/,{}
+Westside Condos,"4605 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/westside-condos-dallas-tx/hczdl40/,{}
+Birchtree Apartments,"2734 Throckmorton St,Dallas,TX,75219",https://www.apartments.com/birchtree-apartments-dallas-tx/gxfgxby/,{}
+Reagan Terrace Apartments,"2821 Reagan St,Dallas,TX,75219",https://www.apartments.com/reagan-terrace-apartments-dallas-tx/ek89xnq/,{}
+Greystone Court,"4104 N Hall St,Dallas,TX,75219",https://www.apartments.com/greystone-court-dallas-tx/jwxnej5/,{}
+Knight Apartments,"2801 Knight St,Dallas,TX,75219",https://www.apartments.com/knight-apartments-dallas-tx/rxmmyv1/,{}
+2825 Reagan St,"2825 Reagan St,Dallas,TX,75219",https://www.apartments.com/2825-reagan-st-dallas-tx/5z97yqn/,{}
+3229-3241 Throckmorton St,"3229-3241 Throckmorton St,Dallas,TX,75219",https://www.apartments.com/3229-3241-throckmorton-st-dallas-tx/fhyh48t/,{}
+The Sorano Town Homes,"4111 Rawlins St,Dallas,TX,75219",https://www.apartments.com/the-sorano-town-homes-dallas-tx/7fx89yx/,{}
+4030 Rawlins St,"4030 Rawlins St,Dallas,TX,75219",https://www.apartments.com/4030-rawlins-st-dallas-tx/rn6sg33/,{}
+The Gardens Apartments,"2910 Throckmorton St,Dallas,TX,75219",https://www.apartments.com/the-gardens-apartments-dallas-tx/dyknmxk/,{}
+2919 Lucas Dr,"2919 Lucas Dr,Dallas,TX,75219",https://www.apartments.com/2919-lucas-dr-dallas-tx/qh8c4cz/,{}
+4010-4012 N Hall St,"4010-4012 N Hall St,Dallas,TX,75219",https://www.apartments.com/4010-4012-n-hall-st-dallas-tx/vkenz4d/,{}
+Barbary Lane Apartments,"3913 N Hall St,Dallas,TX,75219",https://www.apartments.com/barbary-lane-apartments-dallas-tx/5hj47qn/,{}
+ParkSide at Cedar Springs,"4777 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/parkside-at-cedar-springs-dallas-tx/97v8mh5/,{}
+Thunderbird Apartments,"4701 Cedar Springs Rd,Dallas,TX,75219",https://www.apartments.com/thunderbird-apartments-dallas-tx/mjzjyll/,{}
+Piazza Siena,"3102 Kings Rd,Dallas,TX,75219",https://www.apartments.com/piazza-siena-dallas-tx/eqb7k1n/,{}
+La Villa Apartments,"4023 Rawlins St,Dallas,TX,75219",https://www.apartments.com/la-villa-apartments-dallas-tx/gxtwb5w/,{}
+Rawlins/Throckmorton Apartments,"4003 Rawlins St,Dallas,TX,75219",https://www.apartments.com/rawlins-throckmorton-apartments-dallas-tx/dq3283h/,{}
+AMLI Design District,"1400 Hi Line Dr,Dallas,TX,75207",https://www.apartments.com/amli-design-district-dallas-tx/vxc3pdd/,{}
+Westside Court Apartments,"5000-5008 Holland Ave,Highland Park,TX,75209",https://www.apartments.com/westside-court-apartments-highland-park-tx/4e0t3mk/,{}
+Bleu Ciel,"3008 N Harwood St,Dallas,TX,75201",https://www.apartments.com/bleu-ciel-dallas-tx/cfmtwed/,{}
+Little Mexico Village,"3027 Harry Hines Blvd,Dallas,TX,75201",https://www.apartments.com/little-mexico-village-dallas-tx/rqfsel2/,{}
+4950 Cedar Springs,"4950 Cedar Springs Rd,Dallas,TX,75235",https://www.apartments.com/4950-cedar-springs-dallas-tx/dkwj2lk/,{}
+Terrace House,"3131 Maple Ave,Dallas,TX,75201",https://www.apartments.com/terrace-house-dallas-tx/649ysqt/,{}
+Turtle Creek Terrace,"3203 Carlisle St,Dallas,TX,75204",https://www.apartments.com/turtle-creek-terrace-dallas-tx/3fwbwsd/,{}
+San Carlos Apartments,"2516 New Orleans Pl,Dallas,TX,75235",https://www.apartments.com/san-carlos-apartments-dallas-tx/6hv6g6t/,{}
+5010-5022 Cedar Springs Rd,"5010-5022 Cedar Springs Rd,Dallas,TX,75235",https://www.apartments.com/5010-5022-cedar-springs-rd-dallas-tx/yjgj52t/,{}
+The Villas On Holland,"4210 Holland Ave,Dallas,TX,75219",https://www.apartments.com/the-villas-on-holland-dallas-tx/2hm218b/,{}
+4120 Hawthorne Ave,"4120 Hawthorne Ave,Dallas,TX,75219",https://www.apartments.com/4120-hawthorne-ave-dallas-tx/m6942vj/,{}
+Nikko,"4411 Bowser Ave,Dallas,TX,75219",https://www.apartments.com/nikko-dallas-tx/32x39ld/,{}
+21 Turtle Creek,"3883 Turtle Creek Blvd,Dallas,TX,75219",https://www.apartments.com/21-turtle-creek-dallas-tx/bsdmfr8/,{}
+Hartford Townhomes Phase II,"4323 Dickason Ave,Dallas,TX,75219",https://www.apartments.com/hartford-townhomes-phase-ii-dallas-tx/n8y8k5m/,{}
+Hartford Apartments,"4301 Hartford St,Dallas,TX,75219",https://www.apartments.com/hartford-apartments-dallas-tx/2qgq9d9/,{}
+4007 Rawlins St,"4007 Rawlins St,Dallas,TX,75219",https://www.apartments.com/4007-rawlins-st-dallas-tx/3pe38tg/,{}
+The Douglas,"4300 Congress Ave,Dallas,TX,75219",https://www.apartments.com/the-douglas-dallas-tx/b4tl6gc/,{}
+4501 Westway Ave,"4501 Westway Ave,Dallas,TX,75205",https://www.apartments.com/4501-westway-ave-dallas-tx/7s4s4cw/,{}
+Cabana Hotel Residential Tower,"899 N Stemmons Fwy,Dallas,TX,75207",https://www.apartments.com/cabana-hotel-residential-tower-dallas-tx/vlb3sbf/,{}

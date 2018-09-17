@@ -1,0 +1,466 @@
+Name,Address,url,Data
+Mockingbird Flats,"5600 SMU Blvd,Dallas,TX,75206",https://www.apartments.com/mockingbird-flats-dallas-tx/dbv82ph/,"{'1 Bed': '$1,150 – 1,955', '2 Beds': '$1,535 – 2,760', '3 Beds': '$2,590 – 3,880'}"
+Mockingbird Station Apartments,"5331 E Mockingbird Ln,Dallas,TX,75206",https://www.apartments.com/mockingbird-station-apartments-dallas-tx/h9bz182/,"{'1 Bed': '$1,415 – 2,795', '2 Beds': '$2,575 – 3,525'}"
+Alexan Henderson,"1945 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/alexan-henderson-dallas-tx/mwb0vzh/,"{'Studio': '$1,090 – 1,325', '1 Bed': '$1,325 – 2,415', '2 Beds': '$1,715 – 3,220'}"
+The Gentry on M Streets,"3736 Glencoe St,Dallas,TX,75206",https://www.apartments.com/the-gentry-on-m-streets-dallas-tx/vh5l0ge/,"{'1 Bed': '$1,090 – 1,690', '2 Beds': '$1,970'}"
+The Ash at the Branch,"4646 Amesbury Dr,Dallas,TX,75206",https://www.apartments.com/the-ash-at-the-branch-dallas-tx/1tyjb64/,"{'1 Bed': '$1,381 – 2,007', '2 Beds': '$2,111 – 2,535', '3 Beds': '$3,146 – 3,446'}"
+5 Mockingbird,"5555 E Mockingbird Ln,Dallas,TX,75206",https://www.apartments.com/5-mockingbird-dallas-tx/hx6mhk1/,"{'Studio': '$1,188 – 1,198', '1 Bed': '$1,091 – 1,638', '2 Beds': '$1,592 – 2,370', '3 Beds': '$2,298 – 2,810'}"
+Grand Reserve,"6044 E Lovers Ln,Dallas,TX,75206",https://www.apartments.com/grand-reserve-dallas-tx/d7l1fek/,"{'1 Bed': '$2,044', '2 Beds': '$2,598 – 2,692', '3 Beds': '$3,881'}"
+Landmark On Lovers,"5201 Amesbury Dr,Dallas,TX,75206",https://www.apartments.com/landmark-on-lovers-dallas-tx/bsfmxnb/,"{'1 Bed': '$1,144 – 1,615', '2 Beds': '$1,630 – 1,938', '3 Beds': '$2,344 – 3,315'}"
+B and F Flats,"4926 Mission Ave,Dallas,TX,75206",https://www.apartments.com/b-and-f-flats-dallas-tx/gw1lthx/,"{'1 Bed': '$1,475 – 2,285', '2 Beds': '$2,305 – 2,919', '3 Beds': '$3,475 – 3,650'}"
+The Village Dallas,"6071 Village Bend Dr,Dallas,TX,75206",https://www.apartments.com/the-village-dallas-dallas-tx/ew2w74n/,"{'Studio': '$875 – 1,325', '1 Bed': '$852 – 1,687', '2 Beds': '$1,212 – 1,880', '3 Beds': '$1,547 – 2,157'}"
+The Avery on Southwestern,"8910 Southwestern Blvd,Dallas,TX,75214",https://www.apartments.com/the-avery-on-southwestern-dallas-tx/dq3lmqj/,"{'1 Bed': '$1,055 – 1,860', '2 Beds': '$1,495 – 2,205', '3 Beds': '$1,880 – 2,950'}"
+The Caruth,"5445 Caruth Haven Ln,Dallas,TX,75225",https://www.apartments.com/the-caruth-dallas-tx/b9ncpe8/,"{'1 Bed': '$1,599 – 2,175', '2 Beds': '$1,995 – 2,625'}"
+Slate At Cole,"4650 Cole Ave,Dallas,TX,75205",https://www.apartments.com/slate-at-cole-dallas-tx/8sgfn12/,"{'1 Bed': '$1,370 – 1,540', '2 Beds': '$1,655 – 2,150'}"
+Strata,"5050 Capitol Ave,Dallas,TX,75206",https://www.apartments.com/strata-dallas-tx/pfl9pzv/,"{'1 Bed': '$1,265 – 2,360', '2 Beds': '$1,905 – 2,740'}"
+Arrive on University,"5750 E University Blvd,Dallas,TX,75206",https://www.apartments.com/arrive-on-university-dallas-tx/9j3zrf4/,"{'1 Bed': '$1,335 – 1,525', '2 Beds': '$1,485 – 1,925'}"
+La Cima Newport Condos,"5919 Birchbrook Dr,Dallas,TX,75206",https://www.apartments.com/la-cima-newport-condos-dallas-tx/9lq8jx6/,"{'1 Bed': '$1,071 – 1,238', '2 Beds': '$1,405 – 1,697', '3 Beds': '$1,544 – 1,850'}"
+Camden Belmont,"2500 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/camden-belmont-dallas-tx/1c407k7/,"{'1 Bed': '$1,169 – 1,509', '2 Beds': '$1,559 – 2,649'}"
+1809 Bennett Avenue,"1809-1811 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/1809-bennett-avenue-dallas-tx/k8flp79/,"{'Studio': '$895', '1 Bed': '$1,000 – 1,050'}"
+The Village Bend,"5454 Amesbury Dr,Dallas,TX,75206",https://www.apartments.com/the-village-bend-dallas-tx/0f4qjt2/,"{'1 Bed': '$852 – 1,069', '2 Beds': '$1,069 – 1,354'}"
+The Village Lakes,"8610 Southwestern Blvd,Dallas,TX,75206",https://www.apartments.com/the-village-lakes-dallas-tx/yqyf35s/,"{'1 Bed': '$1,129 – 1,460', '2 Beds': '$1,354 – 1,700'}"
+2014 Bennett Avenue,"2014 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/2014-bennett-avenue-dallas-tx/mmbefsk/,"{'1 Bed': '$850 – 1,094'}"
+Apartments at M-Streets,"1925 Moser Ave,Dallas,TX,75206",https://www.apartments.com/apartments-at-m-streets-dallas-tx/d38mvbh/,"{'Studio': '$919 – 1,025', '2 Beds': '$1,375 – 1,547'}"
+Cambridge Court,"5959 E Northwest Hwy,Dallas,TX,75231",https://www.apartments.com/cambridge-court-dallas-tx/debep0h/,"{'1 Bed': '$732 – 1,641', '2 Beds': '$1,172 – 1,918'}"
+Cross Creek,"6033 E Northwest Hwy,Dallas,TX,75231",https://www.apartments.com/cross-creek-dallas-tx/vpxnv4g/,"{'1 Bed': '$745 – 959', '2 Beds': '$1,100 – 1,195'}"
+Tribeca On The Creek,"6262 Melody Ln,Dallas,TX,75231",https://www.apartments.com/tribeca-on-the-creek-dallas-tx/323sznd/,"{'Studio': '$615 – 730', '1 Bed': '$725 – 1,050', '2 Beds': '$1,295'}"
+The Standard (TX),"5920 E University Blvd,Dallas,TX,75206",https://www.apartments.com/the-standard-tx-dallas-tx/535zb9p/,"{'Studio': '$1,225 – 1,758', '1 Bed': '$1,265 – 2,287', '2 Beds': '$1,675 – 3,156'}"
+Moser Homes,"2310 Moser Ave,Dallas,TX,75206",https://www.apartments.com/moser-homes-dallas-tx/6xq2xcr/,"{'2 Beds': '$3,044 – 3,380', '3 Beds': '$3,850 – 4,175', '4 Beds': '$4,370'}"
+The Ellison,"5025 Amesbury Dr,Dallas,TX,75206",https://www.apartments.com/the-ellison-dallas-tx/88c4jn0/,"{'1 Bed': '$1,575 – 1,820', '2 Beds': '$2,551 – 2,920'}"
+The Atwood,"5020 Amesbury Dr,Dallas,TX,75206",https://www.apartments.com/the-atwood-dallas-tx/8hk1rn2/,"{'1 Bed': '$1,122 – 2,062', '2 Beds': '$2,547 – 2,787'}"
+Magnolia off Henderson,"2110 Moser Ave,Dallas,TX,75206",https://www.apartments.com/magnolia-off-henderson-dallas-tx/wh0fx5h/,"{'1 Bed': '$1,219 – 1,744', '2 Beds': '$2,175 – 2,805'}"
+Avana Knox Henderson,"5215 Belmont Ave,Dallas,TX,75206",https://www.apartments.com/avana-knox-henderson-dallas-tx/8febzd0/,"{'1 Bed': '$1,212 – 1,864', '2 Beds': '$1,871 – 2,736'}"
+Camden Henderson,"5222 BELMONT Ave,Dallas,TX,75206",https://www.apartments.com/camden-henderson-dallas-tx/n76d7hq/,"{'1 Bed': '$1,439 – 1,569', '2 Beds': '$1,769', '3 Beds': '$3,049'}"
+2106 Bennett Ave,"2106 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/2106-bennett-ave-dallas-tx/demqbyl/,"{'Studio': '$850', '1 Bed': '$995'}"
+The Village Chase,"5657 Amesbury Dr,Dallas,TX,75206",https://www.apartments.com/the-village-chase-dallas-tx/j4x63m7/,"{'1 Bed': '$949 – 1,044', '2 Beds': '$1,204 – 1,354'}"
+The Village Green,"5350 Amesbury Dr,Dallas,TX,75206",https://www.apartments.com/the-village-green-dallas-tx/m6j1zfh/,"{'1 Bed': '$872 – 1,179', '2 Beds': '$1,236 – 1,446'}"
+The Village Corners,"6310 Shady Brook Ln,Dallas,TX,75206",https://www.apartments.com/the-village-corners-dallas-tx/3y3dx0g/,"{'1 Bed': '$875 – 1,094', '2 Beds': '$1,205 – 1,515', '3 Beds': '$1,505'}"
+The Village Gate,"8203 Southwestern Blvd,Dallas,TX,75206",https://www.apartments.com/the-village-gate-dallas-tx/8b9j0h3/,"{'1 Bed': '$952 – 1,162', '2 Beds': '$1,187 – 1,362', '3 Beds': '$1,547 – 1,629'}"
+The Village Park,"5657 Amesbury Dr,Dallas,TX,75206",https://www.apartments.com/the-village-park-dallas-tx/lngqbhd/,"{'1 Bed': '$934 – 1,099', '2 Beds': '$1,254 – 1,444'}"
+The Village Hill,"5787 Caruth Haven Ln,Dallas,TX,75206",https://www.apartments.com/the-village-hill-dallas-tx/dnfeqxh/,"{'1 Bed': '$882 – 910', '2 Beds': '$1,310 – 1,475', '3 Beds': '$1,650 – 1,724'}"
+The Village Northbridge,"8705 Southwestern Blvd,Dallas,TX,75206",https://www.apartments.com/the-village-northbridge-dallas-tx/q0bbe9w/,"{'1 Bed': '$1,102 – 1,687', '2 Beds': '$1,437 – 1,812', '3 Beds': '$2,157'}"
+The Village Westside,"6541 Shady Brook Ln,Dallas,TX,75206",https://www.apartments.com/the-village-westside-dallas-tx/h8yrz62/,"{'1 Bed': '$1,185 – 1,310', '2 Beds': '$1,690 – 1,880'}"
+The Village Dakota,"6550 Shady Brook Ln,Dallas,TX,75206",https://www.apartments.com/the-village-dakota-dallas-tx/j5rgmg6/,"{'1 Bed': '$1,125 – 1,550', '2 Beds': '$1,840 – 1,850', '3 Beds': '$2,275 – 2,280'}"
+The Village Upper East Side,"8749 Southwestern Blvd,Dallas,TX,75206",https://www.apartments.com/the-village-upper-east-side-dallas-tx/0v3bs93/,"{'1 Bed': '$1,315 – 1,605', '2 Beds': '$2,090 – 2,190', '3 Beds': '$2,510 – 2,570'}"
+Nuvo Park Place,"2116 N Garrett Ave,Dallas,TX,75206",https://www.apartments.com/nuvo-park-place-dallas-tx/hmqbn13/,"{'Studio': '$995 – 1,078', '1 Bed': '$1,139 – 1,234', '2 Beds': '$1,349 – 1,461'}"
+1519 Bennett Ave,"1519 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/1519-bennett-ave-dallas-tx/pm4n1zt/,"{'1 Bed': '$1,150', '2 Beds': '$1,395'}"
+1515 Bennett Ave,"1515 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/1515-bennett-ave-dallas-tx/v8zmv2d/,{'1 Bed': '$995'}
+5005 San Jacinto,"5005 San Jacinto St,Dallas,TX,75206",https://www.apartments.com/5005-san-jacinto-dallas-tx/r4vr180/,"{'1 Bed': '$1,125'}"
+4927 San Jacinto,"4927 San Jacinto St,Dallas,TX,75206",https://www.apartments.com/4927-san-jacinto-dallas-tx/jggwgd5/,{'1 Bed': '$995'}
+Fitzhugh Urban Flats,"2707 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/fitzhugh-urban-flats-dallas-tx/f3787lv/,"{'Studio': '$1,030 – 2,159', '1 Bed': '$1,298 – 2,012', '2 Beds': '$1,625 – 2,424'}"
+2313 N Fitzhugh Ave,"2313 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/2313-n-fitzhugh-ave-dallas-tx/4trbmjh/,{'1 Bed': '$850'}
+2015 Bennett Ave,"2015 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/2015-bennett-ave-dallas-tx/s39bv87/,"{'Studio': '$750', '1 Bed': '$850', '2 Beds': '$1,200 – 1,400'}"
+Park Beverly Apartments,"5827 Blackwell St,Dallas,TX,75231",https://www.apartments.com/park-beverly-apartments-dallas-tx/yjtse2r/,"{'1 Bed': '$725 – 825', '2 Beds': '$1,000'}"
+4904 Manett St Unit 4904B,"Dallas,TX,75206",https://www.apartments.com/4904-manett-st-dallas-tx-unit-4904b/5z3b23n/,{'1 Bed': '$900'}
+5757 E University Blvd Unit 22E,"Dallas,TX,75206",https://www.apartments.com/5757-e-university-blvd-dallas-tx-unit-22e/bcl0b8b/,"{'1 Bed': '$1,895'}"
+2115 N Garrett Ave Unit 101,"Dallas,TX,75206",https://www.apartments.com/2115-n-garrett-ave-dallas-tx-unit-101/j5r8yk4/,"{'Studio': '$1,050'}"
+4800 Northway Dr Unit 6c,"Dallas,TX,75206",https://www.apartments.com/4800-northway-dr-dallas-tx-unit-6c/rrgkf82/,"{'2 Beds': '$1,495'}"
+2115 N Garrett Ave Unit 102,"Dallas,TX,75206",https://www.apartments.com/2115-n-garrett-ave-dallas-tx-unit-102/fpxwn7r/,{'1 Bed': '$995'}
+2115 N Garrett Ave Unit 201,"Dallas,TX,75206",https://www.apartments.com/2115-n-garrett-ave-dallas-tx-unit-201/4zrp4rh/,"{'1 Bed': '$1,150'}"
+4931 Bryan St,"Dallas,TX,75206",https://www.apartments.com/4931-bryan-st-dallas-tx/bvm6wz8/,{'1 Bed': '$895'}
+5757 Martel Ave Unit B10,"5757 Martel Ave,Dallas,TX,75206",https://www.apartments.com/5757-martel-dallas-tx-unit-b10/w8r2gtj/,{}
+5757 Martel Ave,"5757 Martel Ave,Dallas,TX,75206",https://www.apartments.com/5757-martel-dallas-tx/09fynq3/,"{'1 Bed': '$1,195'}"
+Paseo Apartments,"2510 N Henderson Ave,Dallas,TX,75206",https://www.apartments.com/paseo-apartments-dallas-tx/ekz2m4p/,"{'2 Beds': '$3,375 – 3,600'}"
+Eastbridge Apartments,"5140 Willis Ave,Dallas,TX,75206",https://www.apartments.com/eastbridge-apartments-dallas-tx/sv5j7n7/,"{'1 Bed': '$1,195 – 2,175', '2 Beds': '$1,845 – 2,533'}"
+The Collection,"4901 Live Oak St,Dallas,TX,75206",https://www.apartments.com/the-collection-dallas-tx/51evphn/,"{'2 Beds': '$2,475 – 2,825'}"
+Henderson Flats,"1820 N Garrett Ave,Dallas,TX,75206",https://www.apartments.com/henderson-flats-dallas-tx/jsvher5/,"{'1 Bed': '$1,100 – 1,150'}"
+Magnolia on Matilda,"1965 Matilda St,Dallas,TX,75206",https://www.apartments.com/magnolia-on-matilda-dallas-tx/lv0dhjf/,"{'1 Bed': '$1,449'}"
+5320 E Mockingbird Ln Unit L302,"5320 E Mockingbird Ln,Dallas,TX,75206",https://www.apartments.com/5320-e-mockingbird-ln-dallas-tx-unit-l302/jfmx7x5/,"{'1 Bed': '$2,000'}"
+5849 Sandhurst Ln Unit B,"5849 Sandhurst Ln,Dallas,TX,75206",https://www.apartments.com/5849-sandhurst-ln-dallas-tx-unit-b/q51hrnx/,"{'2 Beds': '$1,900'}"
+5757 Martel Ave Unit B10,"5757 Martel Ave,Dallas,TX,75206",https://www.apartments.com/5757-martel-ave-dallas-tx-unit-b10/56l0q8n/,"{'1 Bed': '$1,195'}"
+5909 Birchbrook Dr Unit 119,"5909 Birchbrook Dr,Dallas,TX,75206",https://www.apartments.com/5909-birchbrook-dr-dallas-tx-unit-119/hkye7s1/,"{'2 Beds': '$1,625'}"
+5036 Milam St,"5036 Milam St,Dallas,TX,75206",https://www.apartments.com/5036-milam-st-dallas-tx/t6gq5zb/,"{'2 Beds': '$2,295'}"
+5905 Lewis St Unit 201,"5905 Lewis St,Dallas,TX,75206",https://www.apartments.com/5905-lewis-st-dallas-tx-unit-201/244g75c/,{'1 Bed': '$775'}
+5811 Bryan Pkwy Unit 50,"5811 Bryan Pkwy,Dallas,TX,75206",https://www.apartments.com/5811-bryan-pkwy-dallas-tx-unit-50/1td48n6/,"{'2 Beds': '$2,750'}"
+3515 Delmar Ave,"3515 Delmar Ave,Dallas,TX,75206",https://www.apartments.com/3515-delmar-ave-dallas-tx/fkx31hs/,"{'2 Beds': '$1,450'}"
+5740 Martel Ave Unit B02,"5740 Martel Ave,Dallas,TX,75206",https://www.apartments.com/5740-martel-ave-dallas-tx-unit-b02/0bwejm1/,"{'2 Beds': '$1,595'}"
+5601 Morningside Ave,"5601 Morningside Ave,Dallas,TX,75206",https://www.apartments.com/5601-morningside-ave-dallas-tx/kdbpzj9/,"{'3 Beds': '$3,900'}"
+5813 Llano Ave,"5813 Llano Ave,Dallas,TX,75206",https://www.apartments.com/5813-llano-ave-dallas-tx/1gd3946/,"{'1 Bed': '$1,295'}"
+4961 Jack Ct,"4961 Jack Ct,Dallas,TX,75206",https://www.apartments.com/4961-jack-ct-dallas-tx/tqjz8kc/,"{'2 Beds': '$3,200'}"
+1809 Bennett Ave Unit 117,"1809 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/1809-bennett-ave-dallas-tx-unit-117/ppseb5s/,"{'1 Bed': '$1,000'}"
+3215 Homer St,"3215 Homer St,Dallas,TX,75206",https://www.apartments.com/3215-homer-st-dallas-tx/b1wm2h8/,"{'3 Beds': '$3,150'}"
+5219 Richard Ave,"5219 Richard Ave,Dallas,TX,75206",https://www.apartments.com/5219-richard-ave-dallas-tx/nzx05wq/,"{'2 Beds': '$2,500'}"
+4835 N Central Expy,"4835 N Central Expy,Dallas,TX,75206",https://www.apartments.com/4835-n-central-expy-dallas-tx/4xetpml/,"{'2 Beds': '$1,400'}"
+5251 Vanderbilt Ave,"5251 Vanderbilt Ave,Dallas,TX,75206",https://www.apartments.com/5251-vanderbilt-ave-dallas-tx/nt4s3yp/,"{'2 Beds': '$2,995'}"
+5321 Bryan St,"5321 Bryan St,Dallas,TX,75206",https://www.apartments.com/5321-bryan-st-dallas-tx/l5rzmmd/,"{'2 Beds': '$1,600'}"
+5619 Live Oak St Unit 101,"5619 Live Oak St,Dallas,TX,75206",https://www.apartments.com/5619-live-oak-st-dallas-tx-unit-101/6xshwxt/,"{'2 Beds': '$1,050'}"
+5909 Birchbrook Dr Unit 217,"5909 Birchbrook Dr,Dallas,TX,75206",https://www.apartments.com/5909-birchbrook-dr-dallas-tx-unit-217/28ems69/,"{'2 Beds': '$1,545'}"
+5619 Live Oak St Unit 103,"5619 Live Oak St,Dallas,TX,75206",https://www.apartments.com/5619-live-oak-st-dallas-tx-unit-103/exqn94m/,"{'2 Beds': '$1,050'}"
+2519 N Garrett Ave,"2519 N Garrett Ave,Dallas,TX,75206",https://www.apartments.com/2519-n-garrett-ave-dallas-tx/hyelpf0/,"{'1 Bed': '$1,250'}"
+5644 Richard Ave,"5644 Richard Ave,Dallas,TX,75206",https://www.apartments.com/5644-richard-ave-dallas-tx/wxzvmwh/,"{'3 Beds': '$2,800'}"
+5457 Longview St,"5457 Longview St,Dallas,TX,75206",https://www.apartments.com/5457-longview-st-dallas-tx/1pdry46/,"{'1 Bed': '$1,175'}"
+5211 Milam St,"5211 Milam St,Dallas,TX,75206",https://www.apartments.com/5211-milam-st-dallas-tx/2810my9/,"{'3 Beds': '$4,600'}"
+5818 E University Blvd Unit 216,"5818 E University Blvd,Dallas,TX,75206",https://www.apartments.com/5818-e-university-blvd-dallas-tx-unit-216/rx0vn01/,"{'2 Beds': '$1,175'}"
+5224 Milam St Unit 101,"5224 Milam St,Dallas,TX,75206",https://www.apartments.com/5224-milam-st-dallas-tx-unit-101/ky4cvx8/,{'1 Bed': '$950'}
+5916 Martel Ave,"5916 Martel Ave,Dallas,TX,75206",https://www.apartments.com/5916-martel-ave-dallas-tx/kfq4ztc/,"{'1 Bed': '$1,275'}"
+5426 Monticello Ave,"5426 Monticello Ave,Dallas,TX,75206",https://www.apartments.com/5426-monticello-ave-dallas-tx/ywctzms/,"{'2 Beds': '$2,500'}"
+5931 Marquita Ave,"5931 Marquita Ave,Dallas,TX,75206",https://www.apartments.com/5931-marquita-ave-dallas-tx/rp879d3/,"{'2 Beds': '$1,800'}"
+5830 Martel Ave,"5830 Martel Ave,Dallas,TX,75206",https://www.apartments.com/5830-martel-ave-dallas-tx/3kr6n1f/,"{'1 Bed': '$1,095'}"
+5004 Live Oak St Unit 209,"5004 Live Oak St,Dallas,TX,75206",https://www.apartments.com/5004-live-oak-st-dallas-tx-unit-209/yne9dnt/,{'1 Bed': '$800'}
+1809 Bennett Ave Unit 210,"1809 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/1809-bennett-ave-dallas-tx-unit-210/pnd1dlt/,"{'1 Bed': '$1,050'}"
+5931 E University Blvd Unit 225,"5931 E University Blvd,Dallas,TX,75206",https://www.apartments.com/5931-e-university-blvd-dallas-tx-unit-225/zd1w3ww/,"{'2 Beds': '$1,600'}"
+5702 Hudson St Unit 6,"5702 Hudson St,Dallas,TX,75206",https://www.apartments.com/5702-hudson-st-dallas-tx-unit-6/rkr7ed0/,"{'2 Beds': '$1,950'}"
+5718 McCommas Blvd Unit 203,"5718 McCommas Blvd,Dallas,TX,75206",https://www.apartments.com/5718-mccommas-blvd-dallas-tx-unit-203/r9xgrq1/,"{'2 Beds': '$2,400'}"
+5516 Richard Ave,"5516 Richard Ave,Dallas,TX,75206",https://www.apartments.com/5516-richard-ave-dallas-tx/8fzhpe0/,"{'1 Bed': '$1,200'}"
+5500 Willis Ave,"5500 Willis Ave,Dallas,TX,75206",https://www.apartments.com/5500-willis-ave-dallas-tx/893hj52/,"{'4 Beds': '$4,200'}"
+6077 Milton St Unit 137,"6077 Milton St,Dallas,TX,75206",https://www.apartments.com/6077-milton-st-dallas-tx-unit-137/w3tp2xk/,"{'2 Beds': '$1,350'}"
+5538 Alta Ave,"5538 Alta Ave,Dallas,TX,75206",https://www.apartments.com/5538-alta-ave-dallas-tx/9klgvm4/,"{'2 Beds': '$2,000'}"
+5909 Birchbrook Dr Unit 225,"5909 Birchbrook Dr,Dallas,TX,75206",https://www.apartments.com/5909-birchbrook-dr-dallas-tx-unit-225/8y0mqk1/,"{'2 Beds': '$1,495'}"
+2228 Madera St,"2228 Madera St,Dallas,TX,75206",https://www.apartments.com/2228-madera-st-dallas-tx/x04ppjp/,"{'4 Beds': '$4,600'}"
+5004 Mission Ave,"5004 Mission Ave,Dallas,TX,75206",https://www.apartments.com/5004-mission-ave-dallas-tx/p0vb1bv/,"{'3 Beds': '$3,000'}"
+5609 SMU Boulevard Unit 214,"5609 SMU Boulevard,Dallas,TX,75206",https://www.apartments.com/5609-smu-boulevard-dallas-tx-unit-214/w9y0hnl/,"{'2 Beds': '$1,995'}"
+5911 E University Blvd Unit 108,"5911 E University Blvd,Dallas,TX,75206",https://www.apartments.com/5911-e-university-blvd-dallas-tx-unit-108/250g6xc/,"{'2 Beds': '$1,650'}"
+5800 Prospect Ave Unit 1,"5800 Prospect Ave,Dallas,TX,75206",https://www.apartments.com/5800-prospect-ave-dallas-tx-unit-1/qdnw2px/,"{'2 Beds': '$1,725'}"
+5617 Bryan Pkwy Unit 4,"5617 Bryan Pkwy,Dallas,TX,75206",https://www.apartments.com/5617-bryan-pkwy-dallas-tx-unit-4/8cx1js0/,"{'2 Beds': '$2,200'}"
+4915 Alcott St,"4915 Alcott St,Dallas,TX,75206",https://www.apartments.com/4915-alcott-st-dallas-tx/ywm9qjv/,"{'3 Beds': '$3,250'}"
+5200 Martel Ave Unit 6F,"5200 Martel Ave,Dallas,TX,75206",https://www.apartments.com/5200-martel-ave-dallas-tx-unit-6f/34mfzye/,"{'1 Bed': '$1,250'}"
+1902 Moser Ave Unit 1A,"1902 Moser Ave,Dallas,TX,75206",https://www.apartments.com/1902-moser-ave-dallas-tx-unit-1a/elyyswp/,"{'3 Beds': '$3,850'}"
+1902 Moser Ave Unit 7B,"1902 Moser Ave,Dallas,TX,75206",https://www.apartments.com/1902-moser-ave-dallas-tx-unit-7b/re7jq52/,"{'3 Beds': '$3,899'}"
+1902 Moser Ave Unit 7C,"1902 Moser Ave,Dallas,TX,75206",https://www.apartments.com/1902-moser-ave-dallas-tx-unit-7c/cd2rfpd/,"{'2 Beds': '$3,335'}"
+5909 Birchbrook Dr Unit 107,"5909 Birchbrook Dr,Dallas,TX,75206",https://www.apartments.com/5909-birchbrook-dr-dallas-tx-unit-107/ketjxjb/,"{'2 Beds': '$1,670'}"
+5909 Lewis St,"5909 Lewis St,Dallas,TX,75206",https://www.apartments.com/5909-lewis-st-dallas-tx/5xvw5sm/,{'1 Bed': '$995'}
+5617 Martel Ave,"5617 Martel Ave,Dallas,TX,75206",https://www.apartments.com/5617-martel-ave-dallas-tx/pv2nv2r/,"{'1 Bed': '$2,100'}"
+5609 SMU Boulevard Unit 310,"5609 SMU Boulevard,Dallas,TX,75206",https://www.apartments.com/5609-smu-boulevard-dallas-tx-unit-310/06p73h3/,"{'2 Beds': '$1,895'}"
+5139 Ridgedale Ave,"5139 Ridgedale Ave,Dallas,TX,75206",https://www.apartments.com/5139-ridgedale-ave-dallas-tx/1dxw964/,"{'4 Beds': '$3,500'}"
+5706 Lindell Ave Unit B,"5706 Lindell Ave,Dallas,TX,75206",https://www.apartments.com/5706-lindell-ave-dallas-tx-unit-b/gp1nkry/,"{'2 Beds': '$2,950'}"
+5718 Vanderbilt Ave,"5718 Vanderbilt Ave,Dallas,TX,75206",https://www.apartments.com/5718-vanderbilt-ave-dallas-tx/qhtem2w/,"{'2 Beds': '$2,750'}"
+5200 Martel Ave Unit 15B,"5200 Martel Ave,Dallas,TX,75206",https://www.apartments.com/5200-martel-ave-dallas-tx-unit-15b/tbhtyjc/,"{'2 Beds': '$1,998'}"
+6025 Llano Ave,"6025 Llano Ave,Dallas,TX,75206",https://www.apartments.com/6025-llano-ave-dallas-tx/lrvmd2f/,"{'2 Beds': '$1,485'}"
+6027 Llano Ave,"6027 Llano Ave,Dallas,TX,75206",https://www.apartments.com/6027-llano-ave-dallas-tx/wg51l8k/,"{'2 Beds': '$1,485'}"
+5757 Martel Ave Unit B11,"5757 Martel Ave,Dallas,TX,75206",https://www.apartments.com/5757-martel-ave-dallas-tx-unit-b11/dz3xlek/,"{'1 Bed': '$1,200'}"
+4652 Matilda St Unit F,"4652 Matilda St,Dallas,TX,75206",https://www.apartments.com/4652-matilda-st-dallas-tx-unit-f/10xbw66/,"{'1 Bed': '$1,295'}"
+5839 Palo Pinto Ave,"5839 Palo Pinto Ave,Dallas,TX,75206",https://www.apartments.com/5839-palo-pinto-ave-dallas-tx/bh240wc/,"{'3 Beds': '$2,750'}"
+5924 Birchbrook Dr Unit 117,"5924 Birchbrook Dr,Dallas,TX,75206",https://www.apartments.com/5924-birchbrook-dr-dallas-tx-unit-117/tznftb9/,"{'2 Beds': '$1,554'}"
+4223 Skillman St,"4223 Skillman St,Dallas,TX,75206",https://www.apartments.com/4223-skillman-st-dallas-tx/8pt4ce1/,"{'3 Beds': '$1,850'}"
+5968 Ross Ave,"5968 Ross Ave,Dallas,TX,75206",https://www.apartments.com/5968-ross-ave-dallas-tx/0j4t753/,"{'2 Beds': '$1,600'}"
+5916 Birchbrook Dr Unit 233,"5916 Birchbrook Dr,Dallas,TX,75206",https://www.apartments.com/5916-birchbrook-dr-dallas-tx-unit-233/p82dplv/,"{'2 Beds': '$1,300'}"
+5342 Morningside Ave,"5342 Morningside Ave,Dallas,TX,75206",https://www.apartments.com/5342-morningside-ave-dallas-tx/c11fwcg/,"{'3 Beds': '$3,250'}"
+5802 Palm Ln,"5802 Palm Ln,Dallas,TX,75206",https://www.apartments.com/5802-palm-ln-dallas-tx/zymv3tz/,"{'3 Beds': '$2,250'}"
+5916 Birchbrook Dr Unit 125A,"5916 Birchbrook Dr,Dallas,TX,75206",https://www.apartments.com/5916-birchbrook-dr-dallas-tx-unit-125a/46ry0fj/,"{'2 Beds': '$1,450'}"
+4222 Camden Ave,"4222 Camden Ave,Dallas,TX,75206",https://www.apartments.com/4222-camden-ave-dallas-tx/00p67h2/,"{'2 Beds': '$1,995'}"
+2845 Lee St,"2845 Lee St,Dallas,TX,75206",https://www.apartments.com/2845-lee-st-dallas-tx/18nxgp4/,"{'2 Beds': '$6,400'}"
+6047 Vickery Blvd,"6047 Vickery Blvd,Dallas,TX,75206",https://www.apartments.com/6047-vickery-blvd-dallas-tx/x0qwqwp/,"{'2 Beds': '$2,700'}"
+1902 Moser Ave Unit 5C,"1902 Moser Ave,Dallas,TX,75206",https://www.apartments.com/1902-moser-ave-dallas-tx-unit-5c/km59cyc/,"{'2 Beds': '$2,999'}"
+1902 Moser Ave Unit 1C,"1902 Moser Ave,Dallas,TX,75206",https://www.apartments.com/1902-moser-ave-dallas-tx-unit-1c/tjh1f08/,"{'2 Beds': '$3,325'}"
+5311 Willis Ave,"5311 Willis Ave,Dallas,TX,75206",https://www.apartments.com/5311-willis-ave-dallas-tx/4pqfejj/,"{'3 Beds': '$3,200'}"
+5124 Live Oak St Unit 201,"5124 Live Oak St,Dallas,TX,75206",https://www.apartments.com/5124-live-oak-st-dallas-tx-unit-201/zjcgkmx/,"{'3 Beds': '$1,250'}"
+4227 Camden Ave,"4227 Camden Ave,Dallas,TX,75206",https://www.apartments.com/4227-camden-ave-dallas-tx/6vx8mmv/,"{'3 Beds': '$2,245'}"
+4823 N Central Expy,"4823 N Central Expy,Dallas,TX,75206",https://www.apartments.com/4823-n-central-expy-dallas-tx/xrge3en/,"{'2 Beds': '$1,400'}"
+5224 Milam St Unit 203,"5224 Milam St,Dallas,TX,75206",https://www.apartments.com/5224-milam-st-dallas-tx-unit-203/l263jsd/,{'1 Bed': '$950'}
+5124 Live Oak St Unit 104,"5124 Live Oak St,Dallas,TX,75206",https://www.apartments.com/5124-live-oak-st-dallas-tx-unit-104/5rdn37n/,{'1 Bed': '$825'}
+5124 Live Oak St Unit 207,"5124 Live Oak St,Dallas,TX,75206",https://www.apartments.com/5124-live-oak-st-dallas-tx-unit-207/jbr5e45/,{'1 Bed': '$825'}
+6006 E University Blvd Unit 233,"6006 E University Blvd,Dallas,TX,75206",https://www.apartments.com/6006-e-university-blvd-dallas-tx-unit-233/7ct29vz/,"{'2 Beds': '$1,375'}"
+5820 Milton St Unit 208,"5820 Milton St,Dallas,TX,75206",https://www.apartments.com/5820-milton-st-dallas-tx-unit-208/2hnx2p8/,"{'2 Beds': '$1,450'}"
+5916 Birchbrook Dr Unit 232,"5916 Birchbrook Dr,Dallas,TX,75206",https://www.apartments.com/5916-birchbrook-dr-dallas-tx-unit-232/hek4y00/,"{'2 Beds': '$1,675'}"
+5740 Martel Ave Unit A07,"5740 Martel Ave,Dallas,TX,75206",https://www.apartments.com/5740-martel-ave-dallas-tx-unit-a07/ylcb8mt/,"{'2 Beds': '$1,400'}"
+5938 Sandhurst Ln Unit 102,"5938 Sandhurst Ln,Dallas,TX,75206",https://www.apartments.com/5938-sandhurst-ln-dallas-tx-unit-102/de0lqbl/,"{'2 Beds': '$1,850'}"
+5154 Amesbury Dr Unit 227F,"5154 Amesbury Dr,Dallas,TX,75206",https://www.apartments.com/5154-amesbury-dr-dallas-tx-unit-227f/mwzrz9h/,"{'2 Beds': '$1,350'}"
+5202 Milam St,"5202 Milam St,Dallas,TX,75206",https://www.apartments.com/5202-milam-st-dallas-tx/12b3w84/,"{'2 Beds': '$1,795'}"
+5306 Longview St,"5306 Longview St,Dallas,TX,75206",https://www.apartments.com/5306-longview-st-dallas-tx/yj667fv/,"{'2 Beds': '$6,000'}"
+1902 Bennett Ave Unit 19,"1902 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/1902-bennett-ave-dallas-tx-unit-19/4xnwl5h/,"{'1 Bed': '$1,050'}"
+5916 Sandhurst Ln Unit 235,"5916 Sandhurst Ln,Dallas,TX,75206",https://www.apartments.com/5916-sandhurst-ln-dallas-tx-unit-235/rb6msw2/,"{'2 Beds': '$1,799'}"
+1503 N Garrett Ave Unit 202,"1503 N Garrett Ave,Dallas,TX,75206",https://www.apartments.com/1503-n-garrett-ave-dallas-tx-unit-202/c979g7e/,{'1 Bed': '$895'}
+5647 Richard Ave,"5647 Richard Ave,Dallas,TX,75206",https://www.apartments.com/5647-richard-ave-dallas-tx/pfk6pls/,"{'4 Beds': '$6,000'}"
+5131 Ridgedale Ave,"5131 Ridgedale Ave,Dallas,TX,75206",https://www.apartments.com/5131-ridgedale-ave-dallas-tx/5flgfrq/,"{'2 Beds': '$2,195'}"
+5946 Llano Ave,"5946 Llano Ave,Dallas,TX,75206",https://www.apartments.com/5946-llano-ave-dallas-tx/n9hk66p/,"{'2 Beds': '$2,350'}"
+5904 Sandhurst Ln Unit 245,"5904 Sandhurst Ln,Dallas,TX,75206",https://www.apartments.com/5904-sandhurst-ln-dallas-tx-unit-245/0lsxdz1/,"{'2 Beds': '$1,699'}"
+5124 Live Oak St Unit 106,"5124 Live Oak St,Dallas,TX,75206",https://www.apartments.com/5124-live-oak-st-dallas-tx-unit-106/rpl86q1/,{'1 Bed': '$825'}
+5609 Lindell Ave Unit 4,"5609 Lindell Ave,Dallas,TX,75206",https://www.apartments.com/5609-lindell-ave-dallas-tx-unit-4/y8cfh5v/,"{'2 Beds': '$1,950'}"
+2 Bedroom 1.5 Bath Near SMU Water Paid,"4823 N Central Expy,Dallas,TX,75206",https://www.apartments.com/2-bedroom-15-bath-near-smu-water-paid-dallas-tx/vqevcxg/,"{'2 Beds': '$1,400'}"
+Dallas Furnished Short Term Apartment,"5806 Birchbrook Dr,Dallas,TX,75206",https://www.apartments.com/dallas-furnished-short-term-apartment-dallas-tx-unit-208-corp/hd7zmh2/,"{'1 Bed': '$2,995'}"
+"2 br, 1 bath House - 6027 Llano Ave","6027 Llano Ave,Dallas,TX,75206",https://www.apartments.com/2-br-1-bath-house-6027-llano-ave-dallas-tx/0zk1d82/,"{'2 Beds': '$1,485'}"
+Furnished Executive Paradise Retreat,"5308 Miller Ave,Dallas,TX,75206",https://www.apartments.com/furnished-executive-paradise-retreat-dallas-tx/2sgwnl9/,"{'3 Beds': '$19,995'}"
+1 bedroom in Dallas TX 75206,"2525 N Henderson Ave,Dallas,TX,75206",https://www.apartments.com/1-bedroom-in-dallas-tx-75206-dallas-tx/0sp5zj0/,{'1 Bed': '$945'}
+"1 br, 1 bath House - 2519 N. Garrett Avenue","2519 N Garrett Ave,Dallas,TX,75206",https://www.apartments.com/1-br-1-bath-house-2519-n-garrett-avenue-dallas-tx/832t7e0/,"{'1 Bed': '$1,250'}"
+"2 br, 1 bath House - 6025 Llano Ave","6025 Llano Ave,Dallas,TX,75206",https://www.apartments.com/2-br-1-bath-house-6025-llano-ave-dallas-tx/m8f2wjk/,"{'2 Beds': '$1,485'}"
+Vickery Place Guest House,"5000 Miller Ave,Dallas,TX,75206",https://www.apartments.com/vickery-place-guest-house-dallas-tx/km5ktlb/,"{'1 Bed': '$2,495'}"
+Newly Updated Furnished Condo,"5836 Birchbrook Dr,Dallas,TX,75206",https://www.apartments.com/newly-updated-furnished-condo-dallas-tx-unit-127/n7bg1zn/,"{'1 Bed': '$2,895'}"
+4835 N Central Expy,"4835 N Central Expy,Dallas,TX,75206",https://www.apartments.com/4835-n-central-expy-dallas-tx/sx5ssd6/,"{'2 Beds': '$1,400'}"
+M Streets 2 Bedroom 1 Bath on Winton.,"5639 Winton St,Dallas,TX,75206",https://www.apartments.com/m-streets-2-bedroom-1-bath-on-winton-dallas-tx/md2gxsk/,"{'2 Beds': '$1,350'}"
+2519 N Garrett Ave,"2519 N Garrett Ave,Dallas,TX,75206",https://www.apartments.com/2519-n-garrett-ave-dallas-tx/1wqr6k6/,"{'1 Bed': '$1,250'}"
+5718 McCommas Blvd,"5718 McCommas Blvd,Dallas,TX,75206",https://www.apartments.com/5718-mccommas-blvd-dallas-tx/wkv7e8h/,"{'2 Beds': '$2,400'}"
+M Streets Guest House,"5000 Miller Ave,Dallas,TX,75206",https://www.apartments.com/m-streets-guest-house-dallas-tx/pqcs7tv/,"{'1 Bed': '$2,295'}"
+"2 br, 2.5 bath House - 2845 Lee Street","2845 Lee St,Dallas,TX,75206",https://www.apartments.com/2-br-25-bath-house-2845-lee-street-dallas-tx/yg2sqes/,"{'2 Beds': '$6,400'}"
+Lower Greenville Stunning Townhome,"5816 Lindell Ave,Dallas,TX,75206",https://www.apartments.com/lower-greenville-stunning-townhome-dallas-tx/s6zzfd5/,"{'3 Beds': '$8,495'}"
+5802 Palm Lane Dallas TX 75206,"5802 Palm Ln,Dallas,TX,75206",https://www.apartments.com/5802-palm-lane-dallas-tx-75206-dallas-tx/593m52m/,"{'3 Beds': '$2,250'}"
+1914 Euclid Ave Unit C,"1914 Euclid Ave,Dallas,TX,75206",https://www.apartments.com/1914-euclid-ave-dallas-tx-unit-c/s5sgpk6/,"{'2 Beds': '$3,100'}"
+5138 Amesbury Dr Unit 211,"5138 Amesbury Dr,Dallas,TX,75206",https://www.apartments.com/5138-amesbury-dr-dallas-tx-unit-211/zm1cvhz/,"{'2 Beds': '$1,300'}"
+5138 Amesbury Dr Unit 110,"5138 Amesbury Dr,Dallas,TX,75206",https://www.apartments.com/5138-amesbury-dr-dallas-tx-unit-110/yz9rhhr/,"{'2 Beds': '$1,375'}"
+5218 Willis Ave,"5218 Willis Ave,Dallas,TX,75206",https://www.apartments.com/5218-willis-ave-dallas-tx/h3x85f3/,"{'2 Beds': '$1,850'}"
+5616 Bryan Pkwy Unit 202,"5616 Bryan Pkwy,Dallas,TX,75206",https://www.apartments.com/5616-bryan-pkwy-dallas-tx-unit-202/5zr8dmm/,{'1 Bed': '$925'}
+The Courtyards - Lower Greenville,"5009 Bryan St,Dallas,TX,75206",https://www.apartments.com/the-courtyards-lower-greenville-dallas-tx/lg2wwdf/,"{'1 Bed': '$1,099 – 1,317'}"
+The Corners East in The Village,"6310 Shady Brook Ln,Dallas,TX,75206",https://www.apartments.com/the-corners-east-in-the-village-dallas-tx/s9pc2f5/,"{'1 Bed': '$1,020 – 1,140', '2 Beds': '$1,200 – 1,309'}"
+The Palisades,"5010 Bryan St,Dallas,TX,75206",https://www.apartments.com/the-palisades-dallas-tx/prbpndv/,"{'1 Bed': '$1,089 – 1,377'}"
+The James Apartments,"5849 Oram St,Dallas,TX,75206",https://www.apartments.com/the-james-apartments-dallas-tx/59h14gn/,{'1 Bed': '$975 – 999'}
+Turtle Dove I and II,"3516 Matilda St,Dallas,TX,75206",https://www.apartments.com/turtle-dove-i-and-ii-dallas-tx/v7rzvbg/,"{'Studio': '$615 – 640', '1 Bed': '$775 – 850'}"
+Garrett Gardens,"2015 N Garrett Ave,Dallas,TX,75206",https://www.apartments.com/garrett-gardens-dallas-tx/qjf842w/,{'1 Bed': '$800 – 850'}
+Bell Knox District,"3030 Hester Ave,Dallas,TX,75205",https://www.apartments.com/bell-knox-district-dallas-tx/rgxyr11/,"{'Studio': '$1,310 – 1,985', '1 Bed': '$1,423 – 2,505', '2 Beds': '$2,235 – 3,765'}"
+Knox Heights,"4630 Mckinney Ave,Dallas,TX,75205",https://www.apartments.com/knox-heights-dallas-tx/rht0hs3/,"{'Studio': '$1,467 – 1,705', '1 Bed': '$1,573 – 2,506', '2 Beds': '$2,447 – 3,329', '3 Beds': '$4,031 – 4,441'}"
+LONDON,"5601 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/london-dallas-tx/bdr0z2c/,"{'1 Bed': '$1,085 – 1,236', '2 Beds': '$1,236'}"
+GREEN HOUSE VILLA,"5310 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/green-house-villa-dallas-tx/mltl7rk/,"{'2 Beds': '$1,150'}"
+STARDUST,"5727 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/stardust-dallas-tx/014b2b3/,"{'1 Bed': '$1,085', '2 Beds': '$1,390 – 1,400'}"
+SPANISH STEPS,"4806 Swiss Ave,Dallas,TX,75204",https://www.apartments.com/spanish-steps-dallas-tx/cdzz99f/,"{'2 Beds': '$1,590'}"
+GARDEN VILLA,"5121 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/garden-villa-dallas-tx/nye8b6q/,"{'1 Bed': '$1,005 – 1,025', '2 Beds': '$1,100'}"
+1901 N Fitzhugh Ave Unit 23,"1901 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/1901-n-fitzhugh-ave-dallas-tx-unit-23/ejz9tmp/,{'1 Bed': '$875'}
+6135 Rincon Way,"6135 Rincon Way,Dallas,TX,75214",https://www.apartments.com/6135-rincon-way-dallas-tx/wdb0neh/,"{'3 Beds': '$2,150'}"
+8004 Morningside Ave,"8004 Morningside Ave,Dallas,TX,75214",https://www.apartments.com/8004-morningside-ave-dallas-tx/4eermzh/,"{'2 Beds': '$1,725'}"
+5722 Gaston Ave Unit E,"5722 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5722-gaston-ave-dallas-tx-unit-e/tc8eht9/,{'1 Bed': '$925'}
+6123 Oram St Unit 3,"6123 Oram St,Dallas,TX,75214",https://www.apartments.com/6123-oram-st-dallas-tx-unit-3/gpppppx/,"{'2 Beds': '$1,875'}"
+5722 Gaston Ave Unit H,"5722 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5722-gaston-ave-dallas-tx-unit-h/85f89m1/,{'1 Bed': '$925'}
+6137 Sudbury Dr,"6137 Sudbury Dr,Dallas,TX,75214",https://www.apartments.com/6137-sudbury-dr-dallas-tx/ffltvxs/,"{'3 Beds': '$2,595'}"
+2002 N Fitzhugh Ave Unit 2,"2002 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/2002-n-fitzhugh-ave-dallas-tx-unit-2/g95v91x/,{'1 Bed': '$950'}
+6120 Rincon Way,"6120 Rincon Way,Dallas,TX,75214",https://www.apartments.com/6120-rincon-way-dallas-tx/lmk5jhf/,"{'3 Beds': '$1,850'}"
+1901 N Fitzhugh Ave Unit 3,"1901 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/1901-n-fitzhugh-ave-dallas-tx-unit-3/85kq0d2/,{'1 Bed': '$875'}
+2002 N Fitzhugh Ave Unit 3,"2002 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/2002-n-fitzhugh-ave-dallas-tx-unit-3/9zy99n7/,{'1 Bed': '$950'}
+2700 Amherst Ave,"2700 Amherst Ave,Dallas,TX,75225",https://www.apartments.com/2700-amherst-ave-dallas-tx/r3sy4k3/,"{'4 Beds': '$8,000'}"
+4646 McKinney Ave Unit 428,"4646 McKinney Ave,Dallas,TX,75205",https://www.apartments.com/4646-mckinney-ave-dallas-tx-unit-428/v3xgwve/,"{'1 Bed': '$2,128'}"
+4330 McKinney Ave Unit 6,"4330 McKinney Ave,Dallas,TX,75205",https://www.apartments.com/4330-mckinney-ave-dallas-tx-unit-6/rz83rj2/,"{'2 Beds': '$2,700'}"
+4646 McKinney Ave Unit 216,"4646 McKinney Ave,Dallas,TX,75205",https://www.apartments.com/4646-mckinney-ave-dallas-tx-unit-216/mjqt69k/,"{'1 Bed': '$1,579'}"
+4646 McKinney Ave Unit 312,"4646 McKinney Ave,Dallas,TX,75205",https://www.apartments.com/4646-mckinney-ave-dallas-tx-unit-312/041f3y1/,"{'2 Beds': '$3,092'}"
+4807 Belmont Ave,"4807 Belmont Ave,Dallas,TX,75204",https://www.apartments.com/4807-belmont-ave-dallas-tx/k7t6dj9/,"{'2 Beds': '$1,100'}"
+4411 McKinney Ave Unit 13,"4411 McKinney Ave,Dallas,TX,75205",https://www.apartments.com/4411-mckinney-ave-dallas-tx-unit-13/3ft189g/,"{'2 Beds': '$2,850'}"
+7733 Lovers Ln,"7733 Lovers Ln,Dallas,TX,75225",https://www.apartments.com/7733-lovers-ln-dallas-tx/g6g8j5w/,"{'2 Beds': '$2,195'}"
+1810 N Prairie Ave,"1810 N Prairie Ave,Dallas,TX,75204",https://www.apartments.com/1810-n-prairie-ave-dallas-tx/q1hhp7y/,"{'3 Beds': '$2,295'}"
+5109 Gaston Ave Unit 212,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-212/2n6x1cb/,{'1 Bed': '$600'}
+5109 Gaston Ave Unit 205,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-205/rc1y2b2/,{'1 Bed': '$600'}
+5109 Gaston Ave Unit 112,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-112/enrjdlp/,{'1 Bed': '$650'}
+5109 Gaston Ave Unit 108,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-108/wbttw7j/,{'1 Bed': '$600'}
+"1 br, 1 bath  - 4219 McKinney Ave","4219 McKinney Ave,Dallas,TX,75205",https://www.apartments.com/1-br-1-bath-4219-mckinney-ave-dallas-tx/9n5jqf6/,"{'1 Bed': '$1,695'}"
+5109 Gaston Ave Unit 105,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-105/enhhn0n/,{'1 Bed': '$600'}
+1810 N Fitzhugh Ave Unit 103,"1810 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/1810-n-fitzhugh-ave-dallas-tx-unit-103/erh2dvm/,{'1 Bed': '$945'}
+5109 Gaston Ave Unit 111,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-111/gs8lrkx/,{'1 Bed': '$815'}
+5109 Gaston Ave Unit 101,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-101/bkrdd99/,{'1 Bed': '$600'}
+5109 Gaston Ave Unit 114,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-114/3ttz49g/,{'1 Bed': '$650'}
+4815 Live Oak St,"4815 Live Oak St,Dallas,TX,75204",https://www.apartments.com/4815-live-oak-dallas-tx/qr0ft7x/,{'Studio': '$700'}
+1810 N Fitzhugh Ave Unit 203,"1810 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/1810-n-fitzhugh-ave-dallas-tx-unit-203/jkvmy86/,{'1 Bed': '$945'}
+5109 Gaston Ave Unit 103,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-103/gywk69w/,{'1 Bed': '$600'}
+5109 Gaston Ave Unit 209,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-209/hzdglp3/,{'1 Bed': '$650'}
+5109 Gaston Ave Unit 214,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-214/t5swmv8/,{'1 Bed': '$650'}
+1810 N Fitzhugh Ave Unit 202,"1810 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/1810-n-fitzhugh-ave-dallas-tx-unit-202/bp3h838/,{'1 Bed': '$945'}
+2212 N Fitzhugh Ave Unit Apt 7,"2212 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/2212-n-fitzhugh-ave-dallas-tx-unit-apt-7/h2sph40/,{'1 Bed': '$695'}
+1810 N Fitzhugh Ave Unit 102,"1810 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/1810-n-fitzhugh-ave-dallas-tx-unit-102/9cw6gh5/,{'1 Bed': '$945'}
+5109 Gaston Ave Unit 109,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-109/97hnf07/,{'1 Bed': '$815'}
+5109 Gaston Ave Unit 211,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-211/gzhly2z/,{'1 Bed': '$600'}
+2518 N Fitzhugh Ave Unit 103,"2518 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/2518-n-fitzhugh-ave-dallas-tx-unit-103/xxr7wvp/,"{'1 Bed': '$1,000'}"
+2518 N Fitzhugh Ave Unit 102,"2518 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/2518-n-fitzhugh-ave-dallas-tx-unit-102/f2c04er/,"{'1 Bed': '$1,000'}"
+1810 N Fitzhugh Ave Unit 208,"1810 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/1810-n-fitzhugh-ave-dallas-tx-unit-208/bb5b3vb/,{'1 Bed': '$945'}
+5109 Gaston Ave Unit 201,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5109-gaston-ave-dallas-tx-unit-201/5pnsgxq/,{'1 Bed': '$600'}
+2212 N Fitzhugh Ave Unit Apt 6,"2212 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/2212-n-fitzhugh-ave-dallas-tx-unit-apt-6/hlxqbz1/,{'1 Bed': '$695'}
+4727 Capitol Ave,"4727 Capitol Ave,Dallas,TX,75204",https://www.apartments.com/4727-capitol-ave-dallas-tx/qcrk9qz/,"{'3 Beds': '$1,950'}"
+5307 Gaston Ave Unit 116,"5307 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5307-gaston-ave-dallas-tx-unit-116/f2dxbfs/,{'Studio': '$725'}
+The Marquee,"5515 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/the-marquee-dallas-tx/jgppp57/,"{'2 Beds': '$1,085'}"
+The Royal Palms,"5520 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/the-royal-palms-dallas-tx/xy6tmgp/,"{'1 Bed': '$1,049 – 1,268'}"
+Wilshire On Mockingbird Apartments,"6151 E Mockingbird Ln,Dallas,TX,75214",https://www.apartments.com/wilshire-on-mockingbird-apartments-dallas-tx/xdj0ffq/,"{'1 Bed': '$1,025', '2 Beds': '$1,125 – 1,300'}"
+The McKenzie,"5031 McKinney Ave,Dallas,TX,75205",https://www.apartments.com/the-mckenzie-dallas-tx/jrzdrm4/,"{'1 Bed': '$2,975', '2 Beds': '$4,150 – 6,250'}"
+5612 Ross Ave,"5612 Ross Ave,Dallas,TX,75206",https://www.apartments.com/5612-ross-ave-dallas-tx/lp4wskd/,{}
+Villa Santa Maria,"1830 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/villa-santa-maria-dallas-tx/46by5wj/,{}
+5800 Ross Ave,"5800 Ross Ave,Dallas,TX,75206",https://www.apartments.com/5800-ross-ave-dallas-tx/e8m1bwm/,{}
+5901 Ross Ave,"5901 Ross Ave,Dallas,TX,75206",https://www.apartments.com/5901-ross-ave-dallas-tx/7g3b7qz/,{}
+La Vista Heights,"5610 Lewis St,Dallas,TX,75206",https://www.apartments.com/la-vista-heights-dallas-tx/yn78cqs/,{}
+Bryan Manor,"5230 Bryan St,Dallas,TX,75206",https://www.apartments.com/bryan-manor-dallas-tx/82rhm51/,{}
+Casa Buena Apartments,"4919 San Jacinto St,Dallas,TX,75206",https://www.apartments.com/casa-buena-apartments-dallas-tx/jbx8y44/,{}
+5600 Ross Ave,"5600 Ross Ave,Dallas,TX,75206",https://www.apartments.com/5600-ross-ave-dallas-tx/gczxvrz/,{}
+Turtle Dove II Apartments,"5737 Mccommas Blvd,Dallas,TX,75206",https://www.apartments.com/turtle-dove-ii-apartments-dallas-tx/xmdhv5n/,{}
+Main Street at The Village,"8400 Southwestern Blvd,Dallas,TX,75206",https://www.apartments.com/main-street-at-the-village-dallas-tx/mr33pqk/,{}
+Casa Buena Apartments,"5018 San Jacinto St,Dallas,TX,75206",https://www.apartments.com/casa-buena-apartments-dallas-tx/bnqc58b/,{}
+1417 Bennett Ave,"1417 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/1417-bennett-ave-dallas-tx/qsmqk3y/,{}
+1715 Bennett Ave,"1715 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/1715-bennett-ave-dallas-tx/jr2fww5/,{}
+Alhambra Apartments,"5015-5019 San Jacinto St,Dallas,TX,75206",https://www.apartments.com/alhambra-apartments-dallas-tx/21j04sc/,{}
+5912 Lindell Ave,"5912 Lindell Ave,Dallas,TX,75206",https://www.apartments.com/5912-lindell-ave-dallas-tx/0hsqhn2/,{}
+5011 San Jacinto St,"5011 San Jacinto St,Dallas,TX,75206",https://www.apartments.com/5011-san-jacinto-st-dallas-tx/cplmqzd/,{}
+5103 Live Oak,"5103-5111 Live Oak St,Dallas,TX,75206",https://www.apartments.com/5103-live-oak-dallas-tx/dnfjgsl/,{}
+5221 Bonita,"5221 Bonita Ave,Dallas,TX,75206",https://www.apartments.com/5221-bonita-dallas-tx/zkrfjsz/,{}
+5708 Hudson,"5708 Hudson St,Dallas,TX,75206",https://www.apartments.com/5708-hudson-dallas-tx/5w602ep/,{}
+The Magnolia on Capitol,"5209-5217 Capitol Ave,Dallas,TX,75206",https://www.apartments.com/the-magnolia-on-capitol-dallas-tx/k5c3vy9/,{}
+Glendale Oaks,"5656 Live Oak St,Dallas,TX,75206",https://www.apartments.com/glendale-oaks-dallas-tx/1m41dl4/,{}
+The Newport,"4950 Live Oak St,Dallas,TX,75206",https://www.apartments.com/the-newport-dallas-tx/trd7y3b/,{}
+Belmont Court,"4919 Belmont Ave,Dallas,TX,75206",https://www.apartments.com/belmont-court-dallas-tx/v5ygs6f/,{}
+The Tradition - Lovers Lane,"5850 E Lovers Ln,Dallas,TX,75206",https://www.apartments.com/the-tradition-lovers-lane-dallas-tx/7s32l3w/,{}
+Northbridge in The Village Townhomes,"5721 Skillman St,Dallas,TX,75206",https://www.apartments.com/northbridge-in-the-village-townhomes-dallas-tx/r56sef2/,{}
+Alexan Lower Greenville,"5619 Belmont Ave,Dallas,TX,75206",https://www.apartments.com/alexan-lower-greenville-dallas-tx/yf4wfgv/,{}
+Amesbury Plaza Apartments,"5025 Amesbury Dr,Dallas,TX,75206",https://www.apartments.com/amesbury-plaza-apartments-dallas-tx/dc7lb9k/,{}
+Newport Apartments,"5806 Birchbrook Dr,Dallas,TX,75206",https://www.apartments.com/newport-apartments-dallas-tx/tgk208c/,{}
+Amesbury Apartment Townhomes,"5020 Amesbury Dr,Dallas,TX,75206",https://www.apartments.com/amesbury-apartment-townhomes-dallas-tx/0x2ze41/,{}
+5808 Oram St,"5808 Oram St,Dallas,TX,75206",https://www.apartments.com/5808-oram-st-dallas-tx/m7q6cpk/,{}
+5937 Oram St,"5937 Oram St,Dallas,TX,75206",https://www.apartments.com/5937-oram-st-dallas-tx/736hjnz/,{}
+Upper E - Coral Gates,"5119 Live Oak St,Dallas,TX,75206",https://www.apartments.com/upper-e-coral-gates-dallas-tx/3zz401e/,{}
+Oram Square,"6003 Oram St,Dallas,TX,75206",https://www.apartments.com/oram-square-dallas-tx/z66mp1z/,{}
+The Sea Horse,"2109-2111 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/the-sea-horse-dallas-tx/66rf9sr/,{}
+5010-5014 San Jacinto St,"5010-5014 San Jacinto St,Dallas,TX,75206",https://www.apartments.com/5010-5014-san-jacinto-st-dallas-tx/l8txrdf/,{}
+Villa Moser,"2107 Moser Ave,Dallas,TX,75206",https://www.apartments.com/villa-moser-dallas-tx/rszkb51/,{}
+Bryan Terrace Apartments,"4915-4921 Bryan St,Dallas,TX,75206",https://www.apartments.com/bryan-terrace-apartments-dallas-tx/tp5hhqb/,{}
+4927-4931 Bryan St,"4927-4931 Bryan St,Dallas,TX,75206",https://www.apartments.com/4927-4931-bryan-st-dallas-tx/4x7edch/,{}
+Moser Gardens,"2315 Moser Ave,Dallas,TX,75206",https://www.apartments.com/moser-gardens-dallas-tx/0mn15d2/,{}
+The Element at Live Oak,"5124 Live Oak St,Dallas,TX,75206",https://www.apartments.com/the-element-at-live-oak-dallas-tx/fh323kv/,{}
+Ashwood Arms Apartments,"5015 Bryan St,Dallas,TX,75206",https://www.apartments.com/ashwood-arms-apartments-dallas-tx/e3ns7bp/,{}
+Bennett,"1819-1825 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/bennett-dallas-tx/99pzdk5/,{}
+1603 N Garrett Ave,"1603 N Garrett Ave,Dallas,TX,75206",https://www.apartments.com/1603-n-garrett-ave-dallas-tx/x49t2eq/,{}
+Riveria Apartments,"5010-5018 Live Oak St,Dallas,TX,75206",https://www.apartments.com/riveria-apartments-dallas-tx/t8bxqy9/,{}
+Concrete Jungle,"1909 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/concrete-jungle-dallas-tx/gxnm0fw/,{}
+Cathedral Garden Apartments,"1500 N Garrett Ave,Dallas,TX,75206",https://www.apartments.com/cathedral-garden-apartments-dallas-tx/52zxkpm/,{}
+The Fig Tree Apartments,"2110 Moser Ave,Dallas,TX,75206",https://www.apartments.com/the-fig-tree-apartments-dallas-tx/07m02b1/,{}
+12 Plex,"5003 Bryan St,Dallas,TX,75206",https://www.apartments.com/12-plex-dallas-tx/4tf9keh/,{}
+Westwood Apartments,"4928 Live Oak St,Dallas,TX,75206",https://www.apartments.com/westwood-apartments-dallas-tx/eehbc4m/,{}
+Marina Del Rey Apartments,"4936 Live Oak St,Dallas,TX,75206",https://www.apartments.com/marina-del-rey-apartments-dallas-tx/09bnxf0/,{}
+Bennett Place Apartments,"2223 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/bennett-place-apartments-dallas-tx/rc9y4z0/,{}
+Trojon,"4912 Bryan St,Dallas,TX,75206",https://www.apartments.com/trojon-dallas-tx/pvhd3cs/,{}
+Megallon Apartments,"1415 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/megallon-apartments-dallas-tx/l6s0eef/,{}
+San Jose Apartments,"2003 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/san-jose-apartments-dallas-tx/83f6123/,{}
+Upper E - The Ambassador,"5027-5029 Live Oak St,Dallas,TX,75206",https://www.apartments.com/upper-e-the-ambassador-dallas-tx/8qqs4d0/,{}
+The Debutante Apartments,"1422-1428 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/the-debutante-apartments-dallas-tx/fhwzygt/,{}
+5100 Bryan St,"5100 Bryan St,Dallas,TX,75206",https://www.apartments.com/5100-bryan-st-dallas-tx/0r2ngm3/,{}
+Villa Garrett Apartments,"1919 N Garrett Ave,Dallas,TX,75206",https://www.apartments.com/villa-garrett-apartments-dallas-tx/rp053g1/,{}
+5114 Bryan St,"5114 Bryan St,Dallas,TX,75206",https://www.apartments.com/5114-bryan-st-dallas-tx/n4mn02q/,{}
+The Bentley,"2201 N Garrett Ave,Dallas,TX,75206",https://www.apartments.com/the-bentley-dallas-tx/675vs8r/,{}
+The Bryan Apartments,"4928 Bryan St,Dallas,TX,75206",https://www.apartments.com/the-bryan-apartments-dallas-tx/h6mytj3/,{}
+1430 Bennett Ave,"1430 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/1430-bennett-ave-dallas-tx/y70szfr/,{}
+Upper E - Sherman Oaks,"5118 Live Oak St,Dallas,TX,75206",https://www.apartments.com/upper-e-sherman-oaks-dallas-tx/e4kblem/,{}
+Wyndham Gardens,"1918 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/wyndham-gardens-dallas-tx/ffylxxt/,{}
+1422 Bennett Ave,"1422 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/1422-bennett-ave-dallas-tx/yv71y2r/,{}
+1428 Bennett Ave,"1428 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/1428-bennett-ave-dallas-tx/34etjjd/,{}
+5110 Bryan St,"5110 Bryan St,Dallas,TX,75206",https://www.apartments.com/5110-bryan-st-dallas-tx/re46353/,{}
+Live Oaks Apartments,"5004 Live Oak St,Dallas,TX,75206",https://www.apartments.com/live-oaks-apartments-dallas-tx/phtke0v/,{}
+Casa Buena Apartments,"1417 N Garrett Ave,Dallas,TX,75206",https://www.apartments.com/casa-buena-apartments-dallas-tx/pzc75ts/,{}
+Evita Apartments,"5023 Live Oak St,Dallas,TX,75206",https://www.apartments.com/evita-apartments-dallas-tx/yv6h84s/,{}
+4914-4916 San Jacinto St,"4914-4916 San Jacinto St,Dallas,TX,75206",https://www.apartments.com/4914-4916-san-jacinto-st-dallas-tx/l96847g/,{}
+4911 Bryan St,"4911 Bryan St,Dallas,TX,75206",https://www.apartments.com/4911-bryan-st-dallas-tx/cq4drfd/,{}
+Mirami Apartments,"1414-1416 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/mirami-apartments-dallas-tx/yf3rmvr/,{}
+Park Place Apartments,"2115 N Garrett Ave,Dallas,TX,75206",https://www.apartments.com/park-place-apartments-dallas-tx/xnz9qwq/,{}
+5717-5729 Martel Ave,"5717-5729 Martel Ave,Dallas,TX,75206",https://www.apartments.com/5717-5729-martel-ave-dallas-tx/zfdyv6y/,{}
+La Vista,"5615 Ross Ave,Dallas,TX,75206",https://www.apartments.com/la-vista-dallas-tx/cz7djcf/,{}
+Martel Manor,"5730 Martel Ave,Dallas,TX,75206",https://www.apartments.com/martel-manor-dallas-tx/hxz3d11/,{}
+Swiss Courts,"5421 Bryan St,Dallas,TX,75206",https://www.apartments.com/swiss-courts-dallas-tx/92x4884/,{}
+5609-5613 Lindell Ave,"5609-5613 Lindell Ave,Dallas,TX,75206",https://www.apartments.com/5609-5613-lindell-ave-dallas-tx/42wrswh/,{}
+5911 Ross Ave,"5911 Ross Ave,Dallas,TX,75206",https://www.apartments.com/5911-ross-ave-dallas-tx/l7q606g/,{}
+Lewis Apartment,"5969 Lewis St,Dallas,TX,75206",https://www.apartments.com/lewis-apartment-dallas-tx/mfs40fk/,{}
+5217 Bryan St,"5217 Bryan St,Dallas,TX,75206",https://www.apartments.com/5217-bryan-st-dallas-tx/13hglq5/,{}
+5829 Prospect Ave,"5829 Prospect Ave,Dallas,TX,75206",https://www.apartments.com/5829-prospect-ave-dallas-tx/tnp6s1b/,{}
+5727 Richmond,"5727 Richmond,Dallas,TX,75206",https://www.apartments.com/5727-richmond-dallas-tx/hnp3t40/,{}
+5826 Oram St,"5826 Oram St,Dallas,TX,75206",https://www.apartments.com/5826-oram-st-dallas-tx/cm2pgjg/,{}
+5814 Hudson St,"5814 Hudson St,Dallas,TX,75206",https://www.apartments.com/5814-hudson-st-dallas-tx/sve3904/,{}
+1303-1309 Halcyon Pl,"1303-1309 Halcyon Pl,Dallas,TX,75206",https://www.apartments.com/1303-1309-halcyon-pl-dallas-tx/v0te4gg/,{}
+Glencoe Park Duplexes,"5368-5416 Winton St,Dallas,TX,75206",https://www.apartments.com/glencoe-park-duplexes-dallas-tx/54p9mwp/,{}
+5224 Milam St,"5224 Milam St,Dallas,TX,75206",https://www.apartments.com/5224-milam-st-dallas-tx/qxmvjkz/,{}
+5747 Prospect Ave,"5747 Prospect Ave,Dallas,TX,75206",https://www.apartments.com/5747-prospect-ave-dallas-tx/gxmksgy/,{}
+5436 Miller Ave,"5436 Miller Ave,Dallas,TX,75206",https://www.apartments.com/5436-miller-ave-dallas-tx/f36wmbr/,{}
+5642 Richard Ave,"5642 Richard Ave,Dallas,TX,75206",https://www.apartments.com/5642-richard-ave-dallas-tx/dkpt7dl/,{}
+5910 Oram St,"5910 Oram St,Dallas,TX,75206",https://www.apartments.com/5910-oram-st-dallas-tx/fcbxcnv/,{}
+6030 Lewis St,"6030 Lewis St,Dallas,TX,75206",https://www.apartments.com/6030-lewis-st-dallas-tx/l8t2hdd/,{}
+Interfaith Housing,"5702-5714 Ross Ave,Dallas,TX,75206",https://www.apartments.com/interfaith-housing-dallas-tx/kwvzymc/,{}
+5900 Oram St,"5900 Oram St,Dallas,TX,75206",https://www.apartments.com/5900-oram-st-dallas-tx/krfn25c/,{}
+5619 Live Oak Apartments,"5619 Live Oak St,Dallas,TX,75206",https://www.apartments.com/5619-live-oak-apartments-dallas-tx/c2hck2e/,{}
+5806 Bryan Pkwy,"5806 Bryan Pkwy,Dallas,TX,75206",https://www.apartments.com/5806-bryan-pkwy-dallas-tx/f4zgp8r/,{}
+5616 Bryan Pky,"5616 Bryan Pky,Dallas,TX,75206",https://www.apartments.com/5616-bryan-pky-dallas-tx/hspb740/,{}
+The Highland Dallas Condos,"5300 E Mockingbird Ln,Dallas,TX,75206",https://www.apartments.com/the-highland-dallas-condos-dallas-tx/2cgdj5c/,{}
+5610 Hudson St,"5610 Hudson St,Dallas,TX,75206",https://www.apartments.com/5610-hudson-st-dallas-tx/6se1pgs/,{}
+Bryan Manor,"5233 Bryan St,Dallas,TX,75206",https://www.apartments.com/bryan-manor-dallas-tx/w9zrykk/,{}
+Elite Place,"5303 Bryan St,Dallas,TX,75206",https://www.apartments.com/elite-place-dallas-tx/n3c2mfn/,{}
+Bella Villa,"5506 Miller Ave,Dallas,TX,75206",https://www.apartments.com/bella-villa-dallas-tx/3d1ycje/,{}
+Lawrence Apartments,"2727 N Henderson Ave,Dallas,TX,75206",https://www.apartments.com/lawrence-apartments-dallas-tx/8zqz9e0/,{}
+5747 Richmond Ave,"5747 Richmond Ave,Dallas,TX,75206",https://www.apartments.com/5747-richmond-ave-dallas-tx/sbmj6v7/,{}
+5906 Oram St,"5906 Oram St,Dallas,TX,75206",https://www.apartments.com/5906-oram-st-dallas-tx/jg2q6f6/,{}
+5715 Hudson St,"5715 Hudson St,Dallas,TX,75206",https://www.apartments.com/5715-hudson-st-dallas-tx/rfeyk40/,{}
+5905 Lewis St,"5905 Lewis St,Dallas,TX,75206",https://www.apartments.com/5905-lewis-st-dallas-tx/q7rmr1w/,{}
+The Shelby Dallas,"5609 SMU Blvd,Dallas,TX,75206",https://www.apartments.com/the-shelby-dallas-dallas-tx/3ytrhvf/,{}
+Camden Belmont,"2500 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/camden-belmont-dallas-tx/p1qkdtt/,{}
+McCommas Place,"5738 Mccommas Blvd,Dallas,TX,75206",https://www.apartments.com/mccommas-place-dallas-tx/yrcvm5r/,{}
+6015 Oram,"6015 Oram St,Dallas,TX,75206",https://www.apartments.com/6015-oram-dallas-tx/kh2e4j8/,{}
+5711 Mccommas Blvd,"5711 Mccommas Blvd,Dallas,TX,75206",https://www.apartments.com/5711-mccommas-blvd-dallas-tx/z7hdv2w/,{}
+5736 Marquita Ave,"5736 Marquita Ave,Dallas,TX,75206",https://www.apartments.com/5736-marquita-ave-dallas-tx/9vzred7/,{}
+Marquita Carriage Place,"5720 Marquita Ave,Dallas,TX,75206",https://www.apartments.com/marquita-carriage-place-dallas-tx/7pgqpvy/,{}
+5807 Mccommas Blvd,"5807 Mccommas Blvd,Dallas,TX,75206",https://www.apartments.com/5807-mccommas-blvd-dallas-tx/8z4ctt2/,{}
+5740 Marquita Ave,"5740 Marquita Ave,Dallas,TX,75206",https://www.apartments.com/5740-marquita-ave-dallas-tx/q2sckyx/,{}
+5700 Llano Ave,"5700 Llano Ave,Dallas,TX,75206",https://www.apartments.com/5700-llano-ave-dallas-tx/gp3sx7y/,{}
+Versailles Apartments,"5639-5643 Matalee Ave,Dallas,TX,75206",https://www.apartments.com/versailles-apartments-dallas-tx/ctdj9fd/,{}
+5727 Mccommas Blvd,"5727 Mccommas Blvd,Dallas,TX,75206",https://www.apartments.com/5727-mccommas-blvd-dallas-tx/7yxg6bz/,{}
+5800 Mccommas Blvd,"5800 Mccommas Blvd,Dallas,TX,75206",https://www.apartments.com/5800-mccommas-blvd-dallas-tx/hc54h02/,{}
+5732 Marquita Ave,"5732 Marquita Ave,Dallas,TX,75206",https://www.apartments.com/5732-marquita-ave-dallas-tx/9x5pbe5/,{}
+5717 Mccommas Blvd,"5717 Mccommas Blvd,Dallas,TX,75206",https://www.apartments.com/5717-mccommas-blvd-dallas-tx/nvv8kvm/,{}
+6016 Oram St,"6016 Oram St,Dallas,TX,75206",https://www.apartments.com/6016-oram-st-dallas-tx/zj7cvtw/,{}
+The Caprera,"5823 Mccommas Blvd,Dallas,TX,75206",https://www.apartments.com/the-caprera-dallas-tx/sr8w4q6/,{}
+Manett Townhomes,"5017 Manett St,Dallas,TX,75206",https://www.apartments.com/manett-townhomes-dallas-tx/59nsmyq/,{}
+5711 Morningside Ave,"5711 Morningside Ave,Dallas,TX,75206",https://www.apartments.com/5711-morningside-ave-dallas-tx/brxsfgb/,{}
+5742 Mccommas Blvd,"5742 Mccommas Blvd,Dallas,TX,75206",https://www.apartments.com/5742-mccommas-blvd-dallas-tx/k6q8wpc/,{}
+The Fontaine,"5815 McCommas Blvd,Dallas,TX,75206",https://www.apartments.com/the-fontaine-dallas-tx/zv81bdz/,{}
+McCommas Colonial Apartments,"5714 MCcommas Blvd,Dallas,TX,75206",https://www.apartments.com/mccommas-colonial-apartments-dallas-tx/p0hf09s/,{}
+Gaston Flats,"5425 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/gaston-flats-dallas-tx/7e07x9w/,{}
+Munger Court,"4627 Munger Ave,Dallas,TX,75204",https://www.apartments.com/munger-court-dallas-tx/q2fkt3y/,{}
+4801 Live Oak St,"4801 Live Oak St,Dallas,TX,75204",https://www.apartments.com/4801-live-oak-st-dallas-tx/e3b6j5p/,{}
+Cornerstone Retirement Village,"5203-5207 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/cornerstone-retirement-village-dallas-tx/ff15pgv/,{}
+Upper E - Silver Sands,"5405 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/upper-e-silver-sands-dallas-tx/z40ln2z/,{}
+Fitzhugh Terrace,"1728 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/fitzhugh-terrace-dallas-tx/pwb1e8r/,{}
+Fair Oaks Apartments,"1807 Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/fair-oaks-apartments-dallas-tx/nv4dmnn/,{}
+Old East Milano,"4710 Munger Ave,Dallas,TX,75204",https://www.apartments.com/old-east-milano-dallas-tx/lxc3vze/,{}
+Nove at Knox,"3031 Oliver Ave,Dallas,TX,75205",https://www.apartments.com/nove-at-knox-dallas-tx/7e4cp1y/,{}
+The Hudson,"4805 Mckinney Ave,Dallas,TX,75205",https://www.apartments.com/the-hudson-dallas-tx/27jmfmc/,{}
+Virginia Apartments,"4625 Virginia Ave,Dallas,TX,75204",https://www.apartments.com/virginia-apartments-dallas-tx/6f4k4gv/,{}
+Este Nair,"1519 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/este-nair-dallas-tx/3myxp1g/,{}
+Mckinney Place,"4319 Mckinney Ave,Dallas,TX,75205",https://www.apartments.com/mckinney-place-dallas-tx/y4szftt/,{}
+McKinney Arms Apartments,"4333 Mckinney Ave,Dallas,TX,75205",https://www.apartments.com/mckinney-arms-apartments-dallas-tx/n0kkvlq/,{}
+The Courtyards on McKinney,"4238 McKinney Ave,Dallas,TX,75205",https://www.apartments.com/the-courtyards-on-mckinney-dallas-tx/26m1evc/,{}
+4230 McKinney Ave,"4230 McKinney Ave,Dallas,TX,75205",https://www.apartments.com/4230-mckinney-ave-dallas-tx/sd4w0p5/,{}
+4329 Mckinney Ave,"4329 Mckinney Ave,Dallas,TX,75205",https://www.apartments.com/4329-mckinney-ave-dallas-tx/fpqp8ts/,{}
+4219 Mckinney Ave,"4219 Mckinney Ave,Dallas,TX,75205",https://www.apartments.com/4219-mckinney-ave-dallas-tx/5l3q74p/,{}
+Shangri La,"4323 Mckinney Ave,Dallas,TX,75205",https://www.apartments.com/shangri-la-dallas-tx/h3ttcc3/,{}
+Burton Terrace,"4225 McKinney,Dallas,TX,75205",https://www.apartments.com/burton-terrace-dallas-tx/gwdm2wy/,{}
+Upper E - Driftwood,"5707 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/upper-e-driftwood-dallas-tx/x9n329n/,{}
+Link on Gaston,"4931 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/link-on-gaston-dallas-tx/hrkg5c3/,{}
+Upper E - The Strand,"5307 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/upper-e-the-strand-dallas-tx/q3fwhny/,{}
+Upper E - Casa Villa,"5619 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/upper-e-casa-villa-dallas-tx/vkf6jxf/,{}
+Upper E - Kahlua,"5435 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/upper-e-kahlua-dallas-tx/knpgbvb/,{}
+Oaks,"4919 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/oaks-dallas-tx/k2pjtmc/,{}
+The Andorra on Gaston,"5109 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/the-andorra-on-gaston-dallas-tx/ltyltff/,{}
+The Wilshire Apartments,"811 Skillman St,Dallas,TX,75214",https://www.apartments.com/the-wilshire-apartments-dallas-tx/rg8yz61/,{}
+Prairie Hill Apartments,"2016 N Prairie Ave,Dallas,TX,75204",https://www.apartments.com/prairie-hill-apartments-dallas-tx/ghz0htx/,{}
+Sanoma Apartments,"2001 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/sanoma-apartments-dallas-tx/dqvgj5h/,{}
+2208 N Fitzhugh Ave,"2208 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/2208-n-fitzhugh-ave-dallas-tx/gk27n8x/,{}
+Grigsby Place,"1625 Grigsby Ave,Dallas,TX,75204",https://www.apartments.com/grigsby-place-dallas-tx/jhd5kl6/,{}
+Nancy Villa,"4811 Live Oak St,Dallas,TX,75204",https://www.apartments.com/nancy-villa-dallas-tx/c3qqm9e/,{}
+Virginia Place,"4713-4717 Virginia Ave,Dallas,TX,75204",https://www.apartments.com/virginia-place-dallas-tx/hjctxy1/,{}
+Fitzhugh Apartments,"2212 Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/fitzhugh-apartments-dallas-tx/6pz5rbr/,{}
+2309 N Fitzhugh Ave,"2309 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/2309-n-fitzhugh-ave-dallas-tx/fjtlnmv/,{}
+4810 Live Oak St,"4810 Live Oak St,Dallas,TX,75204",https://www.apartments.com/4810-live-oak-dallas-tx/h0tnnt3/,{}
+Fitzhugh Townhomes,"2104 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/fitzhugh-townhomes-dallas-tx/hsgw010/,{}
+Lafayette Square,"4626 Lafayette Ave,Dallas,TX,75204",https://www.apartments.com/lafayette-square-dallas-tx/fywc88r/,{}
+1921 N Prairie Ave,"1921 N Prairie Ave,Dallas,TX,75204",https://www.apartments.com/1921-n-prairie-ave-dallas-tx/y124xvt/,{}
+4638 Live Oak St,"4638 Live Oak St,Dallas,TX,75204",https://www.apartments.com/4638-live-oak-st-dallas-tx/fgmjqev/,{}
+Monarch & Carroll Townhomes,"2202 Kirby St,Dallas,TX,75204",https://www.apartments.com/monarch-carroll-townhomes-dallas-tx/fgbw6dv/,{}
+2112 N Fitzhugh Ave,"2112 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/2112-n-fitzhugh-ave-dallas-tx/qn1rxzx/,{}
+Milimo Terrace Apartments,"2305 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/milimo-terrace-apartments-dallas-tx/vtbe8ke/,{}
+San Jacinto Apartments,"4638 San Jacinto St,Dallas,TX,75204",https://www.apartments.com/san-jacinto-apartments-dallas-tx/s7mllp4/,{}
+Royal Court Apartments,"2031 N Prairie Ave,Dallas,TX,75204",https://www.apartments.com/royal-court-apartments-dallas-tx/d1x0gck/,{}
+2002 N Fitzhugh Ave,"2002 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/2002-n-fitzhugh-ave-dallas-tx/s6vgqr7/,{}
+Virginia Beach Manor,"4806 Virginia Ave,Dallas,TX,75204",https://www.apartments.com/virginia-beach-manor-dallas-tx/jvkcxv6/,{}
+4815 Live Oak St,"4815 Live Oak St,Dallas,TX,75204",https://www.apartments.com/4815-live-oak-dallas-tx/29t1wg9/,{}
+St. Charles Apartments,"4708 SAN JACINTO St,DALLAS,TX,75204",https://www.apartments.com/st-charles-apartments-dallas-tx/7pw35dw/,{}
+Villa Fortuna Apartments,"4821 Gaston Ave,Dallas,TX,75246",https://www.apartments.com/villa-fortuna-apartments-dallas-tx/9717qj6/,{}
+1830 N Fitzhugh Ave,"1826-1830 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/1830-n-fitzhugh-ave-dallas-tx/v1r6s7g/,{}
+N Fitzhugh Apartments,"2021 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/n-fitzhugh-apartments-dallas-tx/t46ymhc/,{}
+East Side Apartments,"1901 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/east-side-apartments-dallas-tx/88yx392/,{}
+1810 Place,"1810 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/1810-place-dallas-tx/lzs7eeg/,{}
+Upper E - Paree,"5005 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/upper-e-paree-dallas-tx/brcvl5b/,{}
+Upper E - Athenian,"4918 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/upper-e-athenian-dallas-tx/2mhzcgb/,{}
+5500 Gaston Ave,"5500 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/5500-gaston-ave-dallas-tx/vc49gkd/,{}
+Gaston Uptown,"5645 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/gaston-uptown-dallas-tx/2ql80mb/,{}
+Lakewood Apartments,"5722 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/lakewood-apartments-dallas-tx/zgne6kz/,{}
+Candlewick,"5444 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/candlewick-dallas-tx/ezje0zp/,{}
+Gaston Topper,"5644 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/gaston-topper-dallas-tx/tjklk9b/,{}
+The 5600 Apartments,"5602 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/the-5600-apartments-dallas-tx/w7wr81j/,{}
+Gaston Village,"5324 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/gaston-village-dallas-tx/pxpsqcv/,{}
+Upper E - Pink Adobe,"5635 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/upper-e-pink-adobe-dallas-tx/dcejw3h/,{}
+Park Terrace,"5650 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/park-terrace-dallas-tx/ngr900p/,{}
+Bertha Apartments,"2518-2520 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/bertha-apartments-dallas-tx/czqrxcg/,{}
+Residences of Oram,"6133 Oram St,Dallas,TX,75214",https://www.apartments.com/residences-of-oram-dallas-tx/z82esmw/,{}
+Santa Cruz Apartments,"2602 N Fitzhugh Ave,Dallas,TX,75204",https://www.apartments.com/santa-cruz-apartments-dallas-tx/0s8vx61/,{}
+Courthouse Apartments,"5735 Gaston Ave,Dallas,TX,75214",https://www.apartments.com/courthouse-apartments-dallas-tx/vbmxtmg/,{}
+5746 Vickery Blvd,"5746 Vickery Blvd,Dallas,TX,75206",https://www.apartments.com/5746-vickery-blvd-dallas-tx/yeb0dpr/,{}
+Magnolia on Moser- 42 Units,"2103 Moser Ave,Dallas,TX,75206",https://www.apartments.com/magnolia-on-moser-42-units-dallas-tx/ccz9n0d/,{}
+The ROWE Townhomes,"2119 Bennett Ave,Dallas,TX,75206",https://www.apartments.com/the-rowe-townhomes-dallas-tx/heskh72/,{}
+Greenwood Flats,"5714 McCommas Blvd,Dallas,TX,75206",https://www.apartments.com/greenwood-flats-dallas-tx/jjxl395/,{}
+5516 Winton St,"5516 Winton St,Dallas,TX,75206",https://www.apartments.com/5516-winton-st-dallas-tx/enke6cm/,{}
+5328 Rowena St,"5328 Rowena St,Dallas,TX,75206",https://www.apartments.com/5328-rowena-st-dallas-tx/hqcym11/,{}
+The Tate,"2634 N Henderson Ave,Dallas,TX,75206",https://www.apartments.com/the-tate-dallas-tx/gtrke4z/,{}
+5926-5927 Vickery Blvd,"5926-5927 Vickery Blvd,Dallas,TX,75206",https://www.apartments.com/5926-5927-vickery-blvd-dallas-tx/2yed94c/,{}
+Royale Orleans,"4405 Mckinney Ave,Dallas,TX,75205",https://www.apartments.com/royale-orleans-dallas-tx/46xdt2k/,{}
+4408 Mckinney Ave,"4408 Mckinney Ave,Dallas,TX,75205",https://www.apartments.com/4408-mckinney-ave-dallas-tx/x59l7tm/,{}
+Corner Place,"4400-4402 Mckinney Ave,Dallas,TX,75205",https://www.apartments.com/corner-place-dallas-tx/qwpsxqw/,{}

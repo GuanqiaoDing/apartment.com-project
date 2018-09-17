@@ -25,6 +25,7 @@ def scrapeCounty(county_name, state):
             with open ("log.txt", 'a') as file:
                 file.writelines("There is something wrong with {}.\n".format(row['zip_code']))
 
+# Example: python3 scrapper.py county Dallas TX
 if __name__ == "__main__":
     if sys.argv[1].lower() == "state":
         scrapeState(sys.argv[2])
