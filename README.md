@@ -1,4 +1,4 @@
-# apartments.com-project
+# web-crawler
 
 ## Objective
 Acquire as much data from https://www.apartments.com as possible. Scrape and organize data by state or county. The full list of zip_code, county and state can be found in [us_postal_codes.csv](./us_postal_codes.csv).
